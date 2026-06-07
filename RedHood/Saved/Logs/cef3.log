@@ -1,27 +1,64 @@
-[25064:3404:0606/191201.812:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[25064:27492:0606/191202.175:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[25064:3404:0606/191202.321:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[11496:4236:0606/191220.022:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-7F40019A33B6C6D53D541D734438D866 will be ignored
-[25064:2452:0606/191222.130:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[25064:2452:0606/191222.660:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[25064:2452:0606/191222.686:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
-[25064:3404:0606/191223.015:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[25064:3404:0606/191223.016:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[25064:3404:0606/191223.016:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[25064:3404:0606/191223.016:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[25064:2452:0606/191223.351:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[6056:6816:0606/191231.016:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[6056:6816:0606/191231.829:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[6056:28996:0606/191231.870:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[6056:28996:0606/191231.870:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[6056:28996:0606/191231.873:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[28488:16648:0606/191232.051:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
-[28488:16648:0606/191232.072:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[28488:16648:0606/191232.072:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[28488:16648:0606/191232.072:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[6056:28996:0606/191232.072:WARNING:stun_port.cc(442)] Port[175b400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[6056:28996:0606/191232.072:WARNING:stun_port.cc(442)] Port[57e4000:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[6056:28996:0606/191232.072:WARNING:stun_port.cc(442)] Port[57e4400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[25064:3404:0606/191308.846:ERROR:device_event_log_impl.cc(196)] [19:13:08.824] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[8288:27160:0606/191439.602:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[25064:3404:0606/215141.599:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[18832:11340:0606/215625.206:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[18832:3456:0606/215625.673:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[18832:11340:0606/215625.821:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[16212:18536:0606/215638.897:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-61DDD38D3067DCD899AF278AB6F257CA will be ignored
+[18832:11340:0606/215640.108:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[18832:11340:0606/215640.109:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[18832:11340:0606/215640.109:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[18832:11340:0606/215640.109:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[18832:25960:0606/215640.305:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[18568:18876:0606/215643.090:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[18832:25960:0606/215643.119:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[18832:25960:0606/215644.162:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[18568:18876:0606/215644.368:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[18568:20992:0606/215644.411:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[18568:20992:0606/215644.418:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[18568:20992:0606/215644.429:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[12308:23768:0606/215644.487:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[12308:23768:0606/215644.559:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[12308:23768:0606/215644.559:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[12308:23768:0606/215644.559:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[18568:20992:0606/215644.560:WARNING:stun_port.cc(442)] Port[3941800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[18568:20992:0606/215644.560:WARNING:stun_port.cc(442)] Port[3943800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[18568:20992:0606/215644.560:WARNING:stun_port.cc(442)] Port[4625800:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[1964:16256:0606/215851.086:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[18832:25960:0606/223657.532:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[18832:25960:0606/230148.374:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[18832:11340:0606/233413.844:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18832:11340:0606/233418.712:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18832:11340:0606/233423.712:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18832:11340:0606/233428.730:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18832:11340:0606/233433.762:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18832:11340:0606/233438.761:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18832:11340:0606/233443.778:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18832:11340:0606/233448.778:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18832:11340:0606/233453.813:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18832:11340:0606/233458.813:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18832:11340:0606/233503.813:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18832:11340:0606/233508.814:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18832:11340:0606/233513.845:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18832:11340:0606/233518.857:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18832:11340:0606/233638.906:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18832:11340:0606/233643.924:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18832:11340:0606/233648.924:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18832:11340:0606/233653.923:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18832:11340:0606/233658.925:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18832:11340:0606/233703.924:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18832:11340:0606/233708.925:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18832:11340:0606/233713.925:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18832:11340:0606/233718.926:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18832:11340:0606/233723.926:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18832:11340:0606/233728.925:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18832:11340:0606/233733.974:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18832:11340:0606/233738.974:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18832:11340:0606/233743.974:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18832:11340:0606/233749.024:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18832:11340:0606/233754.024:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18832:11340:0606/233759.024:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18832:11340:0606/233804.025:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18832:11340:0606/233809.026:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18832:11340:0606/233814.026:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18832:11340:0606/233819.026:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18832:11340:0606/233824.026:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18832:11340:0607/000157.925:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[18832:11340:0607/000222.965:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
