@@ -1,11 +1,7 @@
-[22676:13008:0607/165650.907:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[22676:8500:0607/165651.335:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[22676:13008:0607/165651.567:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[11096:27600:0607/165702.849:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-815D892A965C56DDE01B7C6C650BF984 will be ignored
-[22676:5596:0607/165705.281:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[22676:5596:0607/165710.771:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[22676:13008:0607/171103.246:ERROR:device_event_log_impl.cc(196)] [17:11:03.234] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[22676:13008:0607/172012.246:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[22676:13008:0607/185943.645:ERROR:device_event_log_impl.cc(196)] [18:59:43.608] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[22676:13008:0607/190305.117:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[22676:13008:0607/190432.338:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[12776:12044:0607/195039.567:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[12776:12816:0607/195039.996:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[12776:12044:0607/195040.177:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[23772:7264:0607/195053.835:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C2A6B573E5F4E3C390D1F67D3EDD9575 will be ignored
+[12776:27884:0607/195100.659:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12776:27884:0607/195100.939:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12776:12044:0607/203303.837:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
