@@ -1,0 +1,8 @@
+[28236:24740:0607/203619.412:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[28236:10452:0607/203619.754:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[28236:24740:0607/203619.908:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[28236:24740:0607/203641.127:ERROR:browser_info_manager.cc(781)] Timeout of new browser info response for frame 6-FA24034145D6EC0CE65468389B22B4D4 (has_rfh=1)
+[13428:12376:0607/203641.388:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-805E6718B7DDB86ACC5EB30BE1BEE849 will be ignored
+[28236:1992:0607/203647.484:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[28236:1992:0607/203650.797:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[28236:24740:0607/215713.690:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
