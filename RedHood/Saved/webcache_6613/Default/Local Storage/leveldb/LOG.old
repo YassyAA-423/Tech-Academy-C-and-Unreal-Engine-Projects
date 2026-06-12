@@ -1,3 +1,5 @@
-2026/06/07-20:36:19.985 3b9c Reusing MANIFEST C:\Users\pitif\OneDrive\Documents\GitHub\Tech-Academy-C-and-Unreal-Engine-Projects\RedHood\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/06/07-20:36:19.991 3b9c Recovering log #3
-2026/06/07-20:36:19.995 3b9c Reusing old log C:\Users\pitif\OneDrive\Documents\GitHub\Tech-Academy-C-and-Unreal-Engine-Projects\RedHood\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/06/11-16:00:49.186 141c Reusing MANIFEST C:\Users\pitif\OneDrive\Documents\GitHub\Tech-Academy-C-and-Unreal-Engine-Projects\RedHood\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/06/11-16:00:49.192 141c Recovering log #3
+2026/06/11-16:00:49.192 141c Level-0 table #3: started
+2026/06/11-16:00:49.200 141c Level-0 table #3: 58574 bytes OK
+2026/06/11-16:00:49.208 141c Delete type=0 #3

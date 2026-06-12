@@ -1,0 +1,17 @@
+[17508:20028:0611/160048.535:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[17508:15068:0611/160048.909:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[17508:20028:0611/160049.094:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[17508:20028:0611/160117.290:ERROR:browser_info_manager.cc(781)] Timeout of new browser info response for frame 6-5915524E5136ECCCF953B3F27A434655 (has_rfh=1)
+[31884:23272:0611/160117.634:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-BA31888DA7620A30A2D134F4E8D5681D will be ignored
+[17508:6032:0611/160118.484:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[17508:6032:0611/165507.560:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[17508:20028:0611/190010.727:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[17508:20028:0611/190054.183:ERROR:device_event_log_impl.cc(196)] [19:00:53.827] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[17508:20028:0611/192212.195:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2428:31056:0611/195616.708:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17508:15068:0611/195617.148:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17508:11760:0611/203001.255:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[2428:31056:0611/203001.285:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17508:11760:0611/203001.328:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[2428:31056:0611/203001.378:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17508:20028:0611/203021.705:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
