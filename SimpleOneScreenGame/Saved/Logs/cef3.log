@@ -1,27 +1,20 @@
-[16496:1668:0614/205938.559:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[16496:14592:0614/205938.637:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[16496:1668:0614/205938.653:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[11616:16252:0614/205952.011:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B046543CA270094CB83A75897A47B54A will be ignored
-[16496:14624:0614/205952.851:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
-[16496:1668:0614/205952.978:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
-[16496:1668:0614/205952.979:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
-[16496:1668:0614/205952.979:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
-[16496:1668:0614/205952.979:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
-[16496:14624:0614/205953.051:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
-[16496:14624:0614/205955.483:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[16496:14624:0614/205955.602:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[25844:18780:0614/205958.500:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[25844:18780:0614/205959.661:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[25844:24416:0614/205959.696:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[25844:24416:0614/205959.697:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[25844:24416:0614/205959.699:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[26824:3732:0614/205959.726:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
-[26824:3732:0614/205959.756:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[26824:3732:0614/205959.756:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[26824:3732:0614/205959.756:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[25844:24416:0614/205959.756:WARNING:stun_port.cc(442)] Port[5f2cc00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[25844:24416:0614/205959.756:WARNING:stun_port.cc(442)] Port[5f2d400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[25844:24416:0614/205959.756:WARNING:stun_port.cc(442)] Port[5f2dc00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[14628:18704:0614/210205.669:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[16496:1668:0614/215249.498:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[16496:1668:0614/220300.114:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[22452:20672:0615/142951.730:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[22452:18336:0615/142951.845:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[22452:20672:0615/142951.859:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[22452:20672:0615/143020.464:ERROR:browser_info_manager.cc(781)] Timeout of new browser info response for frame 6-BD145DA8E1DADA1D5F4B92C700C542C8 (has_rfh=1)
+[33720:32428:0615/143020.823:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-CDF854490BFF83585F89AAFCD54E7FB0 will be ignored
+[22452:32508:0615/143021.721:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22452:32508:0615/143022.072:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22452:20672:0615/143327.738:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[22452:20672:0615/144400.988:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[22452:20672:0615/144406.070:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[22452:20672:0615/144411.113:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19476:11752:0615/155448.166:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[22452:25136:0615/155448.498:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19476:15068:0615/155449.124:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[22452:18336:0615/155449.158:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19476:15068:0615/195609.392:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19476:15068:0615/195609.493:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19476:15068:0615/195609.603:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[22452:25136:0615/195609.805:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[22452:20672:0615/195645.888:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
