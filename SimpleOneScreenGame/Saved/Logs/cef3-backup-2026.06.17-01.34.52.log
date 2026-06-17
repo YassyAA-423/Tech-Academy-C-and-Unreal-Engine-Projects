@@ -1,0 +1,51 @@
+[24728:23908:0616/192900.644:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[24728:20132:0616/192900.974:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[24728:23908:0616/192901.147:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[26256:13676:0616/192921.615:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-47C0CA5679153F863B8E78BA26BB7B86 will be ignored
+[24728:27268:0616/192922.625:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[27316:22008:0616/192924.024:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[27316:16164:0616/192924.107:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[27316:16164:0616/192924.108:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[27316:16164:0616/192924.109:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[12780:29568:0616/192924.648:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[12780:29568:0616/192924.653:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[12780:29568:0616/192924.653:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[12780:29568:0616/192924.653:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[27316:16164:0616/192924.653:WARNING:stun_port.cc(442)] Port[9f8c00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[27316:16164:0616/192924.654:WARNING:stun_port.cc(442)] Port[e9f800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[27316:16164:0616/192924.654:WARNING:stun_port.cc(442)] Port[e9d400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[24728:27268:0616/192925.611:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[24728:23908:0616/192925.942:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[24728:23908:0616/192925.942:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[24728:23908:0616/192925.942:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[24728:23908:0616/192925.942:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[24728:27268:0616/192926.277:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[24728:27268:0616/192927.194:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[17656:8376:0616/192927.605:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[17656:31596:0616/192927.691:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[17656:31596:0616/192927.691:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[17656:31596:0616/192927.691:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[12780:29568:0616/192927.974:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[12780:29568:0616/192927.975:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[12780:29568:0616/192927.975:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[12780:29568:0616/192927.975:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[17656:31596:0616/192927.975:WARNING:stun_port.cc(442)] Port[ff0c00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[17656:31596:0616/192927.975:WARNING:stun_port.cc(442)] Port[ff1400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[17656:31596:0616/192927.975:WARNING:stun_port.cc(442)] Port[ff1c00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[17656:8376:0616/192933.672:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[17656:8376:0616/192933.685:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[17656:31596:0616/192933.691:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[17656:31596:0616/192933.691:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[17656:31596:0616/192933.691:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[12780:29568:0616/192933.972:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[12780:29568:0616/192933.972:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[12780:29568:0616/192933.972:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[12780:29568:0616/192933.973:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[17656:31596:0616/192933.973:WARNING:stun_port.cc(442)] Port[ff1800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[17656:31596:0616/192933.973:WARNING:stun_port.cc(442)] Port[ff2000:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[17656:31596:0616/192933.973:WARNING:stun_port.cc(442)] Port[ff1000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[24728:23908:0616/192949.940:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[24728:23908:0616/192954.938:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[24728:23908:0616/193009.943:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[24728:23908:0616/193014.943:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[24728:23908:0616/193452.015:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
