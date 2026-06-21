@@ -1,0 +1,24 @@
+[23888:1864:0618/201427.245:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[23888:10908:0618/201427.595:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[23888:1864:0618/201427.825:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[9936:5516:0618/201441.840:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-FBA0406D7C96E7DE956E147500739710 will be ignored
+[23888:4308:0618/201447.367:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[23888:4308:0618/201447.441:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[23888:1864:0618/213710.345:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23792:20708:0618/232455.453:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 2x2
+[23792:20708:0618/232455.635:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #48).
+[23792:20708:0618/232455.652:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #48).
+[23792:20708:0618/232455.669:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #48).
+[23792:20708:0618/232455.685:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #48).
+[23792:20708:0618/232455.701:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #48).
+[23792:20708:0618/232455.719:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #48).
+[23792:20708:0618/232455.737:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #48).
+[23792:20708:0618/232455.753:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #48).
+[23792:20708:0618/232455.774:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #48).
+[23792:20708:0618/232455.787:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #48).
+[23792:20708:0618/232455.792:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 1560x950
+[23792:20708:0618/232455.792:VERBOSE1:capture_resolution_chooser.cc(157)] Recomputed capture size from 2x2 to 1560x950 (100% of ideal size)
+[23792:20708:0618/232455.792:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #48).
+[23792:20708:0618/232455.796:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #48).
+[23888:1864:0618/234509.559:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23888:1864:0618/234509.634:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
