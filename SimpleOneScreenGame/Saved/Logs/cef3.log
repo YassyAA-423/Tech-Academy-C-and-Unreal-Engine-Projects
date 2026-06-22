@@ -1,8 +1,9 @@
-[31384:32672:0620/194717.394:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[31384:20284:0620/194717.730:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[31384:32672:0620/194717.911:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[25904:19116:0620/194736.505:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-D16D21482FE19A554D792011898CC762 will be ignored
-[31384:17052:0620/194740.346:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[31384:32672:0620/194917.225:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[31384:32672:0620/194922.260:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[31384:32672:0620/200715.196:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[27112:8828:0622/130050.003:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[27112:4580:0622/130050.364:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[27112:8828:0622/130050.546:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[6892:16044:0622/130103.247:ERROR:backend_impl.cc(989)] Critical error found -8
+[6892:16044:0622/130103.455:WARNING:storage_block-inl.h(138)] Failed data load.
+[13860:8704:0622/130103.581:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-3DBBED5C29344E460B7E11C4ECA2E223 will be ignored
+[27112:3612:0622/130109.571:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[27112:3612:0622/130110.337:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[27112:8828:0622/131223.269:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
