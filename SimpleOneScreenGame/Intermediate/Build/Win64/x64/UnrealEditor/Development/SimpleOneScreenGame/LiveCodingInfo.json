@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SimpleOneScreenGame.gen.cpp.obj": [
+			"Pickup.gen.cpp.obj",
+			"SimpleOneScreenGame.init.gen.cpp.obj"
+		]
+	}
+}

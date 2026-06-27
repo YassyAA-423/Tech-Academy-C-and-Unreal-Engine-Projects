@@ -1,0 +1,50 @@
+[19128:13208:0626/184814.501:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[19128:22820:0626/184814.922:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[19128:13208:0626/184815.145:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[22164:15484:0626/184830.571:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-248D34E05732DFBF35131739BEA8FD3D will be ignored
+[25036:25732:0626/184831.995:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[25036:26528:0626/184832.102:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[25036:26528:0626/184832.103:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[25036:26528:0626/184832.104:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[8732:11220:0626/184832.143:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[8732:11220:0626/184832.173:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[8732:11220:0626/184832.174:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[8732:11220:0626/184832.174:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[25036:26528:0626/184832.206:WARNING:stun_port.cc(442)] Port[f9b000:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[25036:26528:0626/184832.207:WARNING:stun_port.cc(442)] Port[f9b800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[25036:26528:0626/184832.207:WARNING:stun_port.cc(442)] Port[f9bc00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[19128:9040:0626/184832.424:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[19128:13208:0626/184832.441:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[19128:13208:0626/184832.442:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[19128:13208:0626/184832.442:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[19128:13208:0626/184832.442:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[19128:9040:0626/184832.521:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[12480:9144:0626/184832.673:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[12480:11908:0626/184832.780:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[12480:11908:0626/184832.780:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[12480:11908:0626/184832.781:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[8732:11220:0626/184832.833:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[8732:11220:0626/184832.835:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[8732:11220:0626/184832.835:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[8732:11220:0626/184832.835:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[12480:11908:0626/184832.835:WARNING:stun_port.cc(442)] Port[f3a400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[12480:11908:0626/184832.836:WARNING:stun_port.cc(442)] Port[f3ac00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[12480:11908:0626/184832.836:WARNING:stun_port.cc(442)] Port[f3b400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[12480:9144:0626/184835.353:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[19128:9040:0626/184835.426:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[19128:9040:0626/184835.429:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[7696:22956:0626/185038.950:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[19128:13208:0626/201725.074:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19128:13208:0626/201729.748:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19128:13208:0626/201740.048:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19128:13208:0626/201750.352:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19128:9040:0626/221135.487:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[8732:25888:0626/221152.486:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19128:22088:0626/221152.587:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[8732:25888:0626/221152.614:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19128:13208:0626/221205.199:ERROR:device_event_log_impl.cc(196)] [22:12:04.430] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[19128:9040:0626/221205.540:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[19128:9040:0626/221214.418:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[19128:9040:0626/231446.047:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[19128:9040:0626/231446.059:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[19128:13208:0626/232221.190:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

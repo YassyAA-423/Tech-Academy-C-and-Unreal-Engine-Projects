@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SimpleOneScreenGame",
+			"Path": "..\\Source\\SimpleOneScreenGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SimpleOneScreenGameEditor",
+			"Path": "..\\Source\\SimpleOneScreenGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SimpleOneScreenGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/pitif/Documents/SimpleOneScreenGame/Intermediate/Build/Win64/x64/SimpleOneScreenGameEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_4.h.obj"
+"C:/Users/pitif/Documents/SimpleOneScreenGame/Intermediate/Build/Win64/x64/UnrealEditor/Development/SimpleOneScreenGame/Module.SimpleOneScreenGame.gen.cpp.obj"
+"C:/Users/pitif/Documents/SimpleOneScreenGame/Intermediate/Build/Win64/x64/UnrealEditor/Development/SimpleOneScreenGame/SimpleOneScreenGame.cpp.obj"
+"C:/Users/pitif/Documents/SimpleOneScreenGame/Intermediate/Build/Win64/x64/UnrealEditor/Development/SimpleOneScreenGame/Pickup.cpp.obj"
+"C:/Users/pitif/Documents/SimpleOneScreenGame/Intermediate/Build/Win64/x64/UnrealEditor/Development/SimpleOneScreenGame/PerModuleInline.gen.cpp.obj"
+"C:/Users/pitif/Documents/SimpleOneScreenGame/Intermediate/Build/Win64/x64/UnrealEditor/Development/SimpleOneScreenGame/Default.rc2.res"
+/OUT:"C:/Users/pitif/Documents/SimpleOneScreenGame/Intermediate/Build/Win64/x64/UnrealEditor/Development/SimpleOneScreenGame/UnrealEditor-SimpleOneScreenGame.lib"
