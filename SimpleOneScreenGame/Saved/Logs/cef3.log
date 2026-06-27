@@ -1,8 +1,29 @@
-[31384:32672:0620/194717.394:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[31384:20284:0620/194717.730:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[31384:32672:0620/194717.911:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[25904:19116:0620/194736.505:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-D16D21482FE19A554D792011898CC762 will be ignored
-[31384:17052:0620/194740.346:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[31384:32672:0620/194917.225:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[31384:32672:0620/194922.260:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[31384:32672:0620/200715.196:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[20492:30160:0626/232318.733:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[20492:26144:0626/232319.092:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[20492:30160:0626/232319.342:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[20492:30160:0626/232336.891:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[20492:30160:0626/232341.290:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[20492:30160:0626/232343.255:ERROR:browser_info_manager.cc(781)] Timeout of new browser info response for frame 6-4003EF7805313067C111615B5810313E (has_rfh=1)
+[7724:5728:0626/232343.333:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B7FDBB9C6CD394248FD7986B21AAC383 will be ignored
+[20492:27732:0626/232345.523:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[20492:30160:0626/232346.290:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[20492:30160:0626/232351.290:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[27016:27304:0626/232351.797:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[20492:27732:0626/232351.928:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[27016:27264:0626/232352.118:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[27016:27304:0626/232352.475:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[20492:30160:0626/232356.290:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[20492:30160:0626/232401.326:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[20492:30160:0626/232406.330:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2140:13016:0626/232422.527:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-264A029DEFD39743E1B8A72BA6009178 will be ignored
+[27016:10364:0626/232424.722:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[27016:10364:0626/232426.762:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[27016:27304:0626/232518.154:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[20492:30160:0627/025629.065:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[20492:30160:0627/025634.097:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[20492:30160:0627/031333.023:ERROR:device_event_log_impl.cc(196)] [03:13:32.957] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[20492:30160:0627/031357.573:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19876:31296:0627/033238.155:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[19876:31296:0627/033238.194:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[20492:27732:0627/033246.542:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[20492:30160:0627/034008.787:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

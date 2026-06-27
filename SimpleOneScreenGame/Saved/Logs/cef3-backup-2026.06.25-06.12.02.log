@@ -1,0 +1,1058 @@
+[2656:2652:0624/130629.851:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[2656:2772:0624/130629.916:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[2656:2652:0624/130629.932:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[14724:7944:0624/130643.905:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-8CDDFDE3A29FD132424DE22AE275704E will be ignored
+[2656:15696:0624/130646.533:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[15380:15820:0624/140439.526:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/140726.207:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/141019.023:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/141309.380:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/141540.730:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/141816.414:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/142050.426:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/142330.783:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/142622.469:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/142915.489:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/143150.271:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/143445.291:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/143741.980:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/144015.997:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/144312.684:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/144603.707:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/144900.282:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/145158.309:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/145442.665:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/145736.691:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/150025.048:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/150318.403:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/150556.270:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/150855.966:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/151155.009:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/151443.375:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/151714.052:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/151951.951:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/152240.313:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/152443.192:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.107:8008/ssdp/device-desc.xml
+[15380:15820:0624/152444.190:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.114:8060/dial/dd.xml
+[15380:15820:0624/152538.200:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/152824.889:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/153059.910:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/153347.594:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/153631.620:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/153915.653:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/154157.013:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/154448.364:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/154726.389:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/155016.152:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/155302.844:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/155548.877:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/155643.883:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.107:8008/ssdp/device-desc.xml
+[15380:15820:0624/155643.885:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.114:8060/dial/dd.xml
+[15380:15820:0624/155835.243:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/160133.601:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/160430.291:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/160716.313:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/161016.289:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/161042.958:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.108:56790/dd.xml
+[2656:15696:0624/161045.627:VERBOSE1:cast_socket.cc(227)] [192.168.0.108:8009, auth=SSL_VERIFIED] Connect readyState = ReadyState::NONE
+[2656:15696:0624/161045.627:VERBOSE1:cast_socket.cc(391)] [192.168.0.108:8009, auth=SSL_VERIFIED] DoTcpConnect
+[2656:15696:0624/161046.291:VERBOSE1:cast_socket.cc(405)] [192.168.0.108:8009, auth=SSL_VERIFIED] DoTcpConnectComplete: 0
+[2656:15696:0624/161046.291:VERBOSE1:cast_socket.cc(422)] [192.168.0.108:8009, auth=SSL_VERIFIED] DoSslConnect
+[2656:15696:0624/161046.321:VERBOSE1:cast_socket.cc(445)] [192.168.0.108:8009, auth=SSL_VERIFIED] DoSslConnectComplete: 0
+[2656:15696:0624/161046.321:VERBOSE1:cast_socket.cc(476)] [192.168.0.108:8009, auth=SSL_VERIFIED] DoAuthChallengeSend
+[2656:15696:0624/161046.322:VERBOSE1:cast_socket.cc(481)] [192.168.0.108:8009, auth=SSL_VERIFIED] Sending challenge: {source_id: sender-0, destination_id: receiver-0, namespace: urn:x-cast:com.google.cast.tp.deviceauth, payload_binary: (22 bytes)}
+[2656:15696:0624/161046.322:VERBOSE1:cast_socket.cc(492)] [192.168.0.108:8009, auth=SSL_VERIFIED] DoAuthChallengeSendComplete: 0
+[2656:15696:0624/161046.638:VERBOSE1:cast_socket.cc(538)] [192.168.0.108:8009, auth=SSL_VERIFIED] DoAuthChallengeReplyComplete: 0
+[2656:15696:0624/161046.638:VERBOSE1:cast_auth_util.cc(97)] Auth message: {response: {signature: (256 bytes), certificate: (962 bytes)}}
+[2656:15696:0624/161046.643:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[2656:15696:0624/161046.644:VERBOSE1:cast_socket.cc(184)] 
+[2656:15696:0624/161046.644:VERBOSE1:cast_socket.cc(557)] [192.168.0.108:8009, auth=SSL_VERIFIED] Auth challenge verification succeeded
+[2656:15696:0624/161046.644:VERBOSE1:cast_socket.cc(587)] DoConnectCallback (error_state = ChannelError::NONE)
+[2656:15696:0624/161046.648:VERBOSE1:cast_message_handler.cc(462)] Creating VC for channel: 14, source: sender-885730, dest: receiver-0
+[2656:15696:0624/161046.649:VERBOSE1:cast_message_handler.cc(444)] SendCastMessageToSocket: channel_id: 14, message: {source_id: sender-885730, destination_id: receiver-0, namespace: urn:x-cast:com.google.cast.receiver, payload_utf8: {"requestId":2,"type":"GET_STATUS"}}
+[2656:15696:0624/161046.682:VERBOSE1:cast_message_handler.cc(362)] OnMessage: channel_id: 14, message: {source_id: receiver-0, destination_id: sender-885730, namespace: urn:x-cast:com.google.cast.receiver, payload_utf8: {"requestId":2,"status":{"isActiveInput":true,"isStandBy":false,"userEq":{},"volume":{"controlType":"master","level":0.07999999821186066,"muted":false,"stepInterval":0.019999999552965164}},"type":"RECEIVER_STATUS"}}
+[15380:15820:0624/161255.308:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/161538.078:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/161643.092:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.107:8008/ssdp/device-desc.xml
+[15380:15820:0624/161643.094:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.114:8060/dial/dd.xml
+[15380:15820:0624/161643.763:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.108:56790/dd.xml
+[15380:15820:0624/161826.109:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/162057.495:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/162336.187:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/162615.219:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/162857.573:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/163144.331:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/163420.683:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/163700.704:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/163948.064:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/164247.758:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/164534.124:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/164819.150:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/165116.639:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/165404.005:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/165641.791:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/165922.807:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/170206.834:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/170450.517:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/170643.210:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.107:8008/ssdp/device-desc.xml
+[15380:15820:0624/170643.211:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.108:56790/dd.xml
+[15380:15820:0624/170644.206:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.114:8060/dial/dd.xml
+[2656:2652:0624/170707.880:VERBOSE1:service_discovery_device_lister.cc(54)] OnServiceUpdated: service_type: _googlecast._tcp.local, service_name: 2K-Smart-TV-9f70efd69c4b828a0cc17ae025ba9f17._googlecast._tcp.local, update: 1
+[2656:2652:0624/170707.880:VERBOSE1:service_discovery_device_lister.cc(75)] Adding resolver for service_name: 2K-Smart-TV-9f70efd69c4b828a0cc17ae025ba9f17._googlecast._tcp.local
+[2656:2652:0624/170708.211:VERBOSE1:service_discovery_device_lister.cc(91)] OnResolveComplete: service_type: _googlecast._tcp.local, service_name: 2K-Smart-TV-9f70efd69c4b828a0cc17ae025ba9f17._googlecast._tcp.local, status: 0
+[15380:15820:0624/170727.550:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/170958.569:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/171253.260:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/171547.956:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/171642.963:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.107:8008/ssdp/device-desc.xml
+[15380:15820:0624/171642.966:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.108:56790/dd.xml
+[15380:15820:0624/171643.964:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.114:8060/dial/dd.xml
+[15380:15820:0624/171847.314:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/172122.003:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/172421.694:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/172700.383:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/172956.775:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/173150.069:VERBOSE1:device_event_log_impl.cc(198)] [17:31:50.069] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/173150.069:VERBOSE1:device_event_log_impl.cc(198)] [17:31:50.069] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/173237.476:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/173409.694:VERBOSE1:device_event_log_impl.cc(198)] [17:34:09.694] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/173409.694:VERBOSE1:device_event_log_impl.cc(198)] [17:34:09.694] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/173514.601:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/173748.289:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/174020.978:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/174256.005:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/174532.697:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/174644.042:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.114:8060/dial/dd.xml
+[15380:15820:0624/174644.044:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.108:56790/dd.xml
+[15380:15820:0624/174813.059:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/174829.759:VERBOSE1:device_event_log_impl.cc(198)] [17:48:29.758] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/174829.760:VERBOSE1:device_event_log_impl.cc(198)] [17:48:29.759] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/174845.296:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.107:8008/ssdp/device-desc.xml
+[15380:15820:0624/175052.329:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/175135.664:VERBOSE1:device_event_log_impl.cc(198)] [17:51:35.664] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/175135.664:VERBOSE1:device_event_log_impl.cc(198)] [17:51:35.665] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/175142.911:VERBOSE1:device_event_log_impl.cc(198)] [17:51:42.912] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/175142.911:VERBOSE1:device_event_log_impl.cc(198)] [17:51:42.912] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/175157.375:VERBOSE1:device_event_log_impl.cc(198)] [17:51:57.374] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/175157.375:VERBOSE1:device_event_log_impl.cc(198)] [17:51:57.374] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/175225.102:VERBOSE1:device_event_log_impl.cc(198)] [17:52:25.101] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/175225.102:VERBOSE1:device_event_log_impl.cc(198)] [17:52:25.101] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/175302.414:VERBOSE1:profile_manager.cc(1325)] AddKeepAlive(Default, kExtensionUpdater). keep_alives=[kWaitingForFirstBrowserWindow (1), kAppWindow (1), kExtensionUpdater (1)]
+[2656:2652:0624/175302.419:VERBOSE1:profile_manager.cc(1377)] RemoveKeepAlive(Default, kExtensionUpdater). keep_alives=[kWaitingForFirstBrowserWindow (1), kAppWindow (1)]
+[15380:15820:0624/175334.750:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/175625.445:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/175903.475:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/180158.836:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/180321.819:VERBOSE1:device_event_log_impl.cc(198)] [18:03:21.819] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/180321.819:VERBOSE1:device_event_log_impl.cc(198)] [18:03:21.819] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/180437.334:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/180728.392:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/181007.509:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:15696:0624/181232.204:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=84})
+[2656:15696:0624/181234.215:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=83})
+[2656:15696:0624/181235.203:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=84})
+[2656:15696:0624/181237.207:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=85})
+[2656:15696:0624/181240.219:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=100})
+[2656:15696:0624/181253.224:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=85})
+[2656:15696:0624/181254.218:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=84})
+[2656:15696:0624/181255.231:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=85})
+[2656:15696:0624/181257.224:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=100})
+[15380:15820:0624/181304.651:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:15696:0624/181314.246:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=86})
+[2656:15696:0624/181317.235:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=84})
+[2656:15696:0624/181322.241:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=83})
+[2656:15696:0624/181326.253:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=82})
+[2656:15696:0624/181327.241:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=100})
+[2656:15696:0624/181341.258:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=83})
+[2656:15696:0624/181342.258:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=82})
+[2656:15696:0624/181343.258:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=83})
+[2656:15696:0624/181348.264:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=84})
+[2656:15696:0624/181350.277:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=85})
+[2656:15696:0624/181352.262:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=86})
+[2656:15696:0624/181353.263:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=87})
+[2656:15696:0624/181354.263:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=86})
+[2656:15696:0624/181356.269:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=85})
+[2656:15696:0624/181358.268:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=100})
+[2656:15696:0624/181420.280:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=84})
+[2656:15696:0624/181421.292:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=100})
+[15380:15820:0624/181604.938:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/181903.304:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/182156.337:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/182446.033:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/182728.390:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/183024.458:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/183315.146:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/183537.505:VERBOSE1:device_event_log_impl.cc(198)] [18:35:37.504] USB: USER: usb_service_win.cc:762 USB device added: path=\\?\usb#vid_22b8&pid_2e82#zy22hsvplw#{a5dcbf10-6530-11d2-901f-00c04fb951ed} vendor=8888 "motorola", product=11906 "moto g stylus 5G - 2023", serial="ZY22HSVPLW", driver="WUDFWpdMtp", guid=ca094ba7-5f46-4685-a69c-a184b03309f4
+[15380:15820:0624/183558.509:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/183831.125:VERBOSE1:device_event_log_impl.cc(198)] [18:38:31.125] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/183831.125:VERBOSE1:device_event_log_impl.cc(198)] [18:38:31.125] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/183831.814:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/184107.004:VERBOSE1:device_event_log_impl.cc(198)] [18:41:07.004] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/184107.004:VERBOSE1:device_event_log_impl.cc(198)] [18:41:07.004] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/184108.219:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/184329.507:VERBOSE1:device_event_log_impl.cc(198)] [18:43:29.507] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/184329.508:VERBOSE1:device_event_log_impl.cc(198)] [18:43:29.508] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/184400.535:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/184643.119:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.107:8008/ssdp/device-desc.xml
+[15380:15820:0624/184643.139:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.108:56790/dd.xml
+[15380:15820:0624/184643.780:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.114:8060/dial/dd.xml
+[15380:15820:0624/184653.777:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/184927.565:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/185129.276:ERROR:device_event_log_impl.cc(196)] [18:51:29.150] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[2656:2652:0624/185151.215:VERBOSE1:device_event_log_impl.cc(198)] [18:51:51.215] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/185151.216:VERBOSE1:device_event_log_impl.cc(198)] [18:51:51.216] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/185222.049:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/185223.271:VERBOSE1:device_event_log_impl.cc(198)] [18:52:23.270] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/185223.271:VERBOSE1:device_event_log_impl.cc(198)] [18:52:23.271] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/185459.767:VERBOSE1:device_event_log_impl.cc(198)] [18:54:59.755] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/185459.769:VERBOSE1:device_event_log_impl.cc(198)] [18:54:59.768] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/185509.289:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/185643.015:VERBOSE1:device_event_log_impl.cc(198)] [18:56:43.014] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/185643.016:VERBOSE1:device_event_log_impl.cc(198)] [18:56:43.015] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/185643.261:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.107:8008/ssdp/device-desc.xml
+[2656:2652:0624/185701.198:VERBOSE1:device_event_log_impl.cc(198)] [18:57:01.197] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/185701.198:VERBOSE1:device_event_log_impl.cc(198)] [18:57:01.197] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/185708.054:VERBOSE1:device_event_log_impl.cc(198)] [18:57:08.054] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/185708.054:VERBOSE1:device_event_log_impl.cc(198)] [18:57:08.054] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/185721.580:VERBOSE1:device_event_log_impl.cc(198)] [18:57:21.580] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/185721.580:VERBOSE1:device_event_log_impl.cc(198)] [18:57:21.580] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/185746.367:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/185752.616:VERBOSE1:device_event_log_impl.cc(198)] [18:57:52.617] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/185752.616:VERBOSE1:device_event_log_impl.cc(198)] [18:57:52.617] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/185823.393:VERBOSE1:device_event_log_impl.cc(198)] [18:58:23.393] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/185823.393:VERBOSE1:device_event_log_impl.cc(198)] [18:58:23.393] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/185917.675:VERBOSE1:device_event_log_impl.cc(198)] [18:59:17.675] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/185917.676:VERBOSE1:device_event_log_impl.cc(198)] [18:59:17.675] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:15696:0624/185928.201:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=75})
+[2656:15696:0624/185930.206:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=77})
+[2656:15696:0624/185931.192:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=78})
+[2656:15696:0624/185933.197:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=100})
+[15380:15820:0624/190028.154:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:15696:0624/190103.264:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=78})
+[2656:15696:0624/190106.345:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=100})
+[2656:15696:0624/190221.326:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=76})
+[2656:15696:0624/190222.326:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=75})
+[2656:15696:0624/190223.329:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=76})
+[2656:15696:0624/190224.326:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=75})
+[2656:15696:0624/190225.331:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=76})
+[2656:15696:0624/190226.330:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=100})
+[2656:15696:0624/190255.358:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=82})
+[2656:15696:0624/190256.360:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=100})
+[15380:15820:0624/190321.985:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:15696:0624/190332.390:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=73})
+[2656:15696:0624/190334.392:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=77})
+[2656:15696:0624/190335.390:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=79})
+[2656:15696:0624/190337.390:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=81})
+[2656:15696:0624/190338.399:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=82})
+[2656:15696:0624/190339.398:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=83})
+[2656:15696:0624/190340.392:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=81})
+[2656:15696:0624/190341.399:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=80})
+[2656:15696:0624/190342.399:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=78})
+[2656:15696:0624/190343.408:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=77})
+[2656:15696:0624/190344.392:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=72})
+[2656:15696:0624/190345.409:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=70})
+[2656:15696:0624/190346.403:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=69})
+[2656:15696:0624/190347.584:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=100})
+[2656:2652:0624/190359.934:VERBOSE1:device_event_log_impl.cc(198)] [19:03:59.896] USB: USER: usb_service_win.cc:674 USB device removed: path=\\?\usb#vid_22b8&pid_2e82#zy22hsvplw#{a5dcbf10-6530-11d2-901f-00c04fb951ed} guid=ca094ba7-5f46-4685-a69c-a184b03309f4
+[2656:15696:0624/190400.416:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=54})
+[2656:15696:0624/190401.421:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=55})
+[2656:15696:0624/190403.425:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=54})
+[2656:15696:0624/190404.412:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=58})
+[2656:15696:0624/190405.422:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=59})
+[2656:15696:0624/190406.414:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=60})
+[2656:15696:0624/190407.417:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=61})
+[2656:15696:0624/190408.423:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=66})
+[2656:15696:0624/190409.413:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=67})
+[2656:15696:0624/190410.416:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=68})
+[2656:15696:0624/190411.425:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=71})
+[2656:15696:0624/190412.419:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=74})
+[2656:15696:0624/190413.424:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=77})
+[2656:15696:0624/190414.430:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=75})
+[2656:15696:0624/190415.434:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=74})
+[2656:15696:0624/190417.436:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=70})
+[2656:15696:0624/190418.421:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=68})
+[2656:15696:0624/190420.427:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=67})
+[2656:15696:0624/190421.423:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=64})
+[2656:15696:0624/190422.430:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=61})
+[2656:15696:0624/190423.429:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=59})
+[2656:15696:0624/190424.431:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=57})
+[2656:15696:0624/190425.434:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=54})
+[2656:15696:0624/190426.441:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=56})
+[2656:15696:0624/190427.440:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=60})
+[2656:15696:0624/190428.428:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=62})
+[2656:15696:0624/190430.439:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=64})
+[2656:15696:0624/190431.430:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=67})
+[2656:15696:0624/190432.436:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=73})
+[2656:15696:0624/190433.437:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=74})
+[2656:15696:0624/190434.438:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=78})
+[2656:15696:0624/190435.432:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=82})
+[2656:15696:0624/190436.432:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=80})
+[2656:15696:0624/190437.443:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=79})
+[2656:15696:0624/190440.438:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=76})
+[2656:15696:0624/190441.452:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=74})
+[2656:15696:0624/190442.446:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=73})
+[2656:15696:0624/190443.440:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=100})
+[2656:15696:0624/190453.449:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=80})
+[2656:15696:0624/190454.447:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=100})
+[2656:15696:0624/190504.455:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=74})
+[2656:15696:0624/190505.455:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=73})
+[2656:15696:0624/190506.464:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=72})
+[2656:15696:0624/190508.466:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=73})
+[2656:15696:0624/190510.463:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=77})
+[2656:15696:0624/190515.476:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=78})
+[2656:15696:0624/190517.467:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=77})
+[2656:15696:0624/190519.464:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=76})
+[2656:15696:0624/190520.476:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=74})
+[2656:15696:0624/190522.472:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=73})
+[2656:15696:0624/190523.469:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=72})
+[2656:15696:0624/190525.470:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=100})
+[2656:15696:0624/190535.484:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=66})
+[2656:15696:0624/190538.490:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=62})
+[2656:15696:0624/190540.487:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=65})
+[2656:15696:0624/190541.482:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=67})
+[2656:15696:0624/190542.493:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=69})
+[2656:15696:0624/190543.484:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=71})
+[2656:15696:0624/190544.488:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=73})
+[2656:15696:0624/190545.500:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=74})
+[2656:15696:0624/190548.494:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=72})
+[2656:15696:0624/190549.502:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=69})
+[2656:15696:0624/190550.499:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=64})
+[2656:15696:0624/190551.496:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=63})
+[2656:15696:0624/190552.492:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=62})
+[2656:15696:0624/190553.497:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=61})
+[2656:15696:0624/190555.507:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=59})
+[2656:15696:0624/190556.507:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=58})
+[2656:15696:0624/190557.507:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=59})
+[2656:15696:0624/190558.513:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=61})
+[2656:15696:0624/190559.511:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=62})
+[15380:15820:0624/190559.822:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:15696:0624/190600.507:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=64})
+[2656:15696:0624/190601.514:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=62})
+[2656:15696:0624/190602.510:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=64})
+[2656:15696:0624/190603.510:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=66})
+[2656:15696:0624/190604.514:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=67})
+[2656:15696:0624/190605.516:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=68})
+[2656:15696:0624/190609.518:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=72})
+[2656:15696:0624/190610.512:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=74})
+[2656:15696:0624/190611.521:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=77})
+[2656:15696:0624/190612.516:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=78})
+[2656:15696:0624/190614.523:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=76})
+[2656:15696:0624/190615.514:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=74})
+[2656:15696:0624/190617.528:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=73})
+[2656:15696:0624/190618.517:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=74})
+[2656:15696:0624/190619.527:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=72})
+[2656:15696:0624/190620.518:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=71})
+[2656:15696:0624/190621.518:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=69})
+[2656:15696:0624/190622.535:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=65})
+[2656:15696:0624/190623.536:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=62})
+[2656:15696:0624/190624.532:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=60})
+[2656:15696:0624/190625.529:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=59})
+[2656:15696:0624/190627.523:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=58})
+[2656:15696:0624/190628.529:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=57})
+[2656:15696:0624/190629.535:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=58})
+[2656:15696:0624/190631.539:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=60})
+[2656:15696:0624/190632.538:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=62})
+[2656:15696:0624/190633.538:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=64})
+[2656:15696:0624/190634.537:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=65})
+[2656:15696:0624/190635.534:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=67})
+[2656:15696:0624/190636.526:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=68})
+[2656:15696:0624/190637.533:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=69})
+[2656:15696:0624/190638.543:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=71})
+[2656:15696:0624/190639.531:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=72})
+[2656:15696:0624/190641.541:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=73})
+[2656:15696:0624/190643.545:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=74})
+[2656:15696:0624/190644.544:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=77})
+[2656:15696:0624/190645.550:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=100})
+[2656:15696:0624/190655.550:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=69})
+[2656:15696:0624/190656.544:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=68})
+[2656:15696:0624/190657.540:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=69})
+[2656:15696:0624/190659.545:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=71})
+[2656:15696:0624/190701.546:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=70})
+[2656:15696:0624/190703.559:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=72})
+[2656:15696:0624/190704.557:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=75})
+[2656:15696:0624/190705.562:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=77})
+[2656:15696:0624/190706.558:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=78})
+[2656:15696:0624/190707.556:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=79})
+[2656:15696:0624/190708.550:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=78})
+[2656:15696:0624/190709.552:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=79})
+[2656:15696:0624/190710.568:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=78})
+[2656:15696:0624/190712.567:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=79})
+[2656:15696:0624/190713.565:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=78})
+[2656:15696:0624/190716.565:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=77})
+[2656:15696:0624/190718.563:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=78})
+[2656:15696:0624/190725.576:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=79})
+[2656:15696:0624/190726.574:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=80})
+[2656:15696:0624/190729.569:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=79})
+[2656:15696:0624/190730.570:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=80})
+[2656:15696:0624/190731.582:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=79})
+[2656:15696:0624/190732.577:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=77})
+[2656:15696:0624/190734.578:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=76})
+[2656:15696:0624/190735.569:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=74})
+[2656:15696:0624/190736.585:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=73})
+[2656:15696:0624/190738.575:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=74})
+[2656:15696:0624/190740.585:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=73})
+[2656:15696:0624/190741.575:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=75})
+[2656:15696:0624/190742.589:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=76})
+[2656:15696:0624/190743.590:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=75})
+[2656:15696:0624/190745.586:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=76})
+[2656:15696:0624/190746.588:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=77})
+[2656:15696:0624/190747.585:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=76})
+[2656:15696:0624/190748.595:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=75})
+[2656:15696:0624/190749.587:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=74})
+[2656:15696:0624/190752.587:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=72})
+[2656:15696:0624/190753.587:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=73})
+[2656:15696:0624/190754.591:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=74})
+[2656:15696:0624/190757.599:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=75})
+[2656:15696:0624/190759.588:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=74})
+[2656:15696:0624/190800.591:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=75})
+[2656:15696:0624/190801.605:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=76})
+[2656:15696:0624/190802.604:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=77})
+[2656:15696:0624/190804.597:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=78})
+[2656:15696:0624/190808.607:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=76})
+[2656:15696:0624/190811.602:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=74})
+[2656:15696:0624/190812.611:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=73})
+[2656:15696:0624/190813.614:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=75})
+[2656:15696:0624/190815.615:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=76})
+[2656:15696:0624/190816.607:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=77})
+[2656:15696:0624/190818.618:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=79})
+[2656:15696:0624/190819.620:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=80})
+[2656:15696:0624/190820.622:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=100})
+[15380:15820:0624/190837.327:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:15696:0624/190844.641:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=77})
+[2656:15696:0624/190847.648:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=79})
+[2656:15696:0624/190848.633:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=82})
+[2656:15696:0624/190849.650:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=81})
+[2656:15696:0624/190850.639:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=83})
+[2656:15696:0624/190852.651:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=82})
+[2656:15696:0624/190854.648:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=81})
+[2656:15696:0624/190855.651:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=82})
+[2656:15696:0624/190857.654:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=100})
+[2656:15696:0624/190926.664:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=83})
+[2656:15696:0624/190927.671:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=84})
+[2656:15696:0624/190928.670:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=83})
+[2656:15696:0624/190932.670:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=100})
+[2656:15696:0624/190942.687:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=83})
+[2656:15696:0624/190943.692:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=82})
+[2656:15696:0624/190944.692:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=81})
+[2656:15696:0624/190945.678:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=80})
+[2656:15696:0624/190946.677:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=78})
+[2656:15696:0624/190948.685:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=100})
+[2656:15696:0624/191006.706:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=82})
+[2656:15696:0624/191007.700:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=81})
+[2656:15696:0624/191010.702:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=82})
+[2656:15696:0624/191012.711:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=81})
+[2656:15696:0624/191013.711:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=82})
+[2656:15696:0624/191015.712:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=100})
+[2656:15696:0624/191035.727:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=84})
+[2656:15696:0624/191036.728:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=85})
+[2656:15696:0624/191037.717:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=84})
+[2656:15696:0624/191039.720:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=83})
+[2656:15696:0624/191040.724:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=84})
+[2656:15696:0624/191046.734:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=83})
+[2656:15696:0624/191048.748:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=80})
+[2656:15696:0624/191049.737:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=79})
+[2656:15696:0624/191050.732:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=77})
+[2656:15696:0624/191051.742:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=75})
+[2656:15696:0624/191052.729:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=76})
+[2656:15696:0624/191053.732:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=73})
+[2656:15696:0624/191054.735:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=74})
+[2656:15696:0624/191055.742:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=75})
+[2656:15696:0624/191056.734:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=73})
+[2656:15696:0624/191057.742:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=71})
+[2656:15696:0624/191058.743:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=73})
+[2656:15696:0624/191059.735:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=75})
+[2656:15696:0624/191100.737:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=77})
+[2656:15696:0624/191101.739:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=78})
+[2656:15696:0624/191102.750:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=77})
+[2656:15696:0624/191103.751:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=79})
+[2656:15696:0624/191104.737:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=100})
+[15380:15820:0624/191112.883:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:15696:0624/191122.759:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=84})
+[2656:15696:0624/191123.752:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=80})
+[2656:15696:0624/191124.753:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=79})
+[2656:15696:0624/191125.766:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=80})
+[2656:15696:0624/191126.760:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=79})
+[2656:15696:0624/191127.754:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=78})
+[2656:15696:0624/191128.763:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=75})
+[2656:15696:0624/191129.788:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=70})
+[2656:15696:0624/191130.774:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=65})
+[2656:15696:0624/191132.779:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=62})
+[2656:15696:0624/191133.775:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=66})
+[2656:15696:0624/191134.778:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=63})
+[2656:15696:0624/191137.070:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=61})
+[2656:15696:0624/191138.070:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=100})
+[2656:2652:0624/191152.624:VERBOSE1:device_event_log_impl.cc(198)] [19:11:52.623] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/191152.626:VERBOSE1:device_event_log_impl.cc(198)] [19:11:52.625] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/191404.794:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/191612.307:VERBOSE1:device_event_log_impl.cc(198)] [19:16:12.308] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/191612.307:VERBOSE1:device_event_log_impl.cc(198)] [19:16:12.308] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/191652.054:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/191744.397:VERBOSE1:device_event_log_impl.cc(198)] [19:17:44.396] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/191744.399:VERBOSE1:device_event_log_impl.cc(198)] [19:17:44.398] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/191750.348:VERBOSE1:device_event_log_impl.cc(198)] [19:17:50.347] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/191750.348:VERBOSE1:device_event_log_impl.cc(198)] [19:17:50.347] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/191818.214:VERBOSE1:device_event_log_impl.cc(198)] [19:18:18.213] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/191818.214:VERBOSE1:device_event_log_impl.cc(198)] [19:18:18.214] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/191846.969:VERBOSE1:device_event_log_impl.cc(198)] [19:18:46.969] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/191846.969:VERBOSE1:device_event_log_impl.cc(198)] [19:18:46.969] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/191924.908:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/191936.969:VERBOSE1:device_event_log_impl.cc(198)] [19:19:36.969] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/191936.969:VERBOSE1:device_event_log_impl.cc(198)] [19:19:36.970] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/191956.834:VERBOSE1:device_event_log_impl.cc(198)] [19:19:56.834] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/191956.835:VERBOSE1:device_event_log_impl.cc(198)] [19:19:56.835] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/192159.132:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/192447.041:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/192725.649:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/193005.673:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/193305.178:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/193604.705:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/193616.208:VERBOSE1:service_discovery_device_lister.cc(54)] OnServiceUpdated: service_type: _googlecast._tcp.local, service_name: D24h-J09-fab2e2555b27986f5034801d1dd5b66a._googlecast._tcp.local, update: 1
+[2656:2652:0624/193616.208:VERBOSE1:service_discovery_device_lister.cc(75)] Adding resolver for service_name: D24h-J09-fab2e2555b27986f5034801d1dd5b66a._googlecast._tcp.local
+[2656:2652:0624/193616.223:VERBOSE1:service_discovery_device_lister.cc(91)] OnResolveComplete: service_type: _googlecast._tcp.local, service_name: D24h-J09-fab2e2555b27986f5034801d1dd5b66a._googlecast._tcp.local, status: 0
+[2656:15696:0624/193623.278:VERBOSE1:cast_message_handler.cc(362)] OnMessage: channel_id: 14, message: {source_id: receiver-0, destination_id: *, namespace: urn:x-cast:com.google.cast.receiver, payload_utf8: {"requestId":3,"status":{"applications":[{"appId":"233637DE","appType":"WEB","displayName":"YouTube","iconUrl":"https://lh3.googleusercontent.com/fYXhG7TGRR7Kz9Teq7NVeDCWSjE-WzTMaN69EfXJCEHvTMxxCC8SdopLZEM27uhBHc4MlRypmDPH03ySJw","isIdleScreen":false,"launchedFromCloud":false,"namespaces":[{"name":"urn:x-cast:com.google.cast.debugoverlay"},{"name":"urn:x-cast:com.google.cast.cac"},{"name":"urn:x-cast:com.google.youtube.mdx"},{"name":"urn:x-cast:com.google.cast.media"}],"sessionId":"74dca950-a202-409e-9eba-74e0d02d9038","statusText":"YouTube","transportId":"74dca950-a202-409e-9eba-74e0d02d9038","universalAppId":"233637DE"}],"isActiveInput":true,"isStandBy":false,"userEq":{},"volume":{"controlType":"master","level":0.07999999821186066,"muted":false,"stepInterval":0.019999999552965164}},"type":"RECEIVER_STATUS"}}
+[2656:15696:0624/193632.111:VERBOSE1:cast_message_handler.cc(362)] OnMessage: channel_id: 2, message: {source_id: receiver-0, destination_id: *, namespace: urn:x-cast:com.google.cast.receiver, payload_utf8: {"requestId":0,"status":{"userEq":{},"volume":{"controlType":"master","level":0.0,"muted":true,"stepInterval":0.009999999776482582}},"type":"RECEIVER_STATUS"}}
+[2656:15696:0624/193632.501:VERBOSE1:cast_message_handler.cc(362)] OnMessage: channel_id: 14, message: {source_id: receiver-0, destination_id: *, namespace: urn:x-cast:com.google.cast.receiver, payload_utf8: {"requestId":0,"status":{"isActiveInput":true,"isStandBy":false,"userEq":{},"volume":{"controlType":"master","level":0.07999999821186066,"muted":false,"stepInterval":0.019999999552965164}},"type":"RECEIVER_STATUS"}}
+[2656:2652:0624/193634.118:VERBOSE1:service_discovery_device_lister.cc(54)] OnServiceUpdated: service_type: _googlecast._tcp.local, service_name: 2K-Smart-TV-9f70efd69c4b828a0cc17ae025ba9f17._googlecast._tcp.local, update: 1
+[2656:2652:0624/193634.118:VERBOSE1:service_discovery_device_lister.cc(75)] Adding resolver for service_name: 2K-Smart-TV-9f70efd69c4b828a0cc17ae025ba9f17._googlecast._tcp.local
+[2656:2652:0624/193634.134:VERBOSE1:service_discovery_device_lister.cc(91)] OnResolveComplete: service_type: _googlecast._tcp.local, service_name: 2K-Smart-TV-9f70efd69c4b828a0cc17ae025ba9f17._googlecast._tcp.local, status: 0
+[2656:15696:0624/193634.248:VERBOSE1:cast_message_handler.cc(362)] OnMessage: channel_id: 2, message: {source_id: receiver-0, destination_id: *, namespace: urn:x-cast:com.google.cast.receiver, payload_utf8: {"requestId":0,"status":{"userEq":{},"volume":{"controlType":"master","level":0.0,"muted":false,"stepInterval":0.009999999776482582}},"type":"RECEIVER_STATUS"}}
+[2656:2652:0624/193635.034:VERBOSE1:service_discovery_device_lister.cc(54)] OnServiceUpdated: service_type: _googlecast._tcp.local, service_name: D24h-J09-fab2e2555b27986f5034801d1dd5b66a._googlecast._tcp.local, update: 1
+[2656:2652:0624/193635.034:VERBOSE1:service_discovery_device_lister.cc(75)] Adding resolver for service_name: D24h-J09-fab2e2555b27986f5034801d1dd5b66a._googlecast._tcp.local
+[2656:2652:0624/193635.051:VERBOSE1:service_discovery_device_lister.cc(91)] OnResolveComplete: service_type: _googlecast._tcp.local, service_name: D24h-J09-fab2e2555b27986f5034801d1dd5b66a._googlecast._tcp.local, status: 0
+[2656:15696:0624/193635.276:VERBOSE1:cast_message_handler.cc(362)] OnMessage: channel_id: 2, message: {source_id: receiver-0, destination_id: *, namespace: urn:x-cast:com.google.cast.receiver, payload_utf8: {"requestId":0,"status":{"isActiveInput":true,"isStandBy":false,"userEq":{},"volume":{"controlType":"master","level":0.0,"muted":false,"stepInterval":0.009999999776482582}},"type":"RECEIVER_STATUS"}}
+[2656:15696:0624/193639.392:VERBOSE1:cast_message_handler.cc(362)] OnMessage: channel_id: 2, message: {source_id: receiver-0, destination_id: *, namespace: urn:x-cast:com.google.cast.receiver, payload_utf8: {"requestId":11,"status":{"applications":[{"appId":"2C6A6E3D","appType":"ANDROID_TV","displayName":"YouTube","iconUrl":"","isIdleScreen":false,"launchedFromCloud":false,"namespaces":[{"name":"urn:x-cast:com.google.cast.media"},{"name":"urn:x-cast:com.google.cast.system"},{"name":"urn:x-cast:com.google.cast.cac"},{"name":"urn:x-cast:com.google.cast.customdata"},{"name":"urn:x-cast:com.google.youtube.mdx"}],"senderConnected":false,"sessionId":"530bfdd9-6d9a-4444-8387-c5d85b3f3a23","statusText":"Youtube","transportId":"530bfdd9-6d9a-4444-8387-c5d85b3f3a23","universalAppId":"233637DE"}],"isActiveInput":true,"isStandBy":false,"userEq":{},"volume":{"controlType":"master","level":0.0,"muted":false,"stepInterval":0.009999999776482582}},"type":"RECEIVER_STATUS"}}
+[2656:15696:0624/193639.471:VERBOSE1:cast_message_handler.cc(362)] OnMessage: channel_id: 2, message: {source_id: receiver-0, destination_id: *, namespace: urn:x-cast:com.google.cast.receiver, payload_utf8: {"requestId":0,"status":{"applications":[{"appId":"2C6A6E3D","appType":"ANDROID_TV","displayName":"YouTube","iconUrl":"","isIdleScreen":false,"launchedFromCloud":false,"namespaces":[{"name":"urn:x-cast:com.google.cast.media"},{"name":"urn:x-cast:com.google.cast.system"},{"name":"urn:x-cast:com.google.cast.cac"},{"name":"urn:x-cast:com.google.cast.customdata"},{"name":"urn:x-cast:com.google.youtube.mdx"}],"senderConnected":true,"sessionId":"530bfdd9-6d9a-4444-8387-c5d85b3f3a23","statusText":"Youtube","transportId":"530bfdd9-6d9a-4444-8387-c5d85b3f3a23","universalAppId":"233637DE"}],"isActiveInput":true,"isStandBy":false,"userEq":{},"volume":{"controlType":"master","level":0.0,"muted":false,"stepInterval":0.009999999776482582}},"type":"RECEIVER_STATUS"}}
+[2656:15696:0624/193639.543:VERBOSE1:cast_message_handler.cc(362)] OnMessage: channel_id: 2, message: {source_id: receiver-0, destination_id: *, namespace: urn:x-cast:com.google.cast.receiver, payload_utf8: {"requestId":0,"status":{"applications":[{"appId":"2C6A6E3D","appType":"ANDROID_TV","displayName":"YouTube","iconUrl":"","isIdleScreen":false,"launchedFromCloud":false,"namespaces":[{"name":"urn:x-cast:com.google.cast.media"},{"name":"urn:x-cast:com.google.cast.system"},{"name":"urn:x-cast:com.google.cast.cac"},{"name":"urn:x-cast:com.google.cast.customdata"},{"name":"urn:x-cast:com.google.youtube.mdx"}],"senderConnected":true,"sessionId":"530bfdd9-6d9a-4444-8387-c5d85b3f3a23","statusText":"Youtube","transportId":"530bfdd9-6d9a-4444-8387-c5d85b3f3a23","universalAppId":"233637DE"}],"isActiveInput":true,"isStandBy":false,"userEq":{},"volume":{"controlType":"master","level":0.0,"muted":false,"stepInterval":0.009999999776482582}},"type":"RECEIVER_STATUS"}}
+[2656:2652:0624/193641.486:VERBOSE1:service_discovery_device_lister.cc(54)] OnServiceUpdated: service_type: _googlecast._tcp.local, service_name: 2K-Smart-TV-9f70efd69c4b828a0cc17ae025ba9f17._googlecast._tcp.local, update: 1
+[2656:2652:0624/193641.486:VERBOSE1:service_discovery_device_lister.cc(75)] Adding resolver for service_name: 2K-Smart-TV-9f70efd69c4b828a0cc17ae025ba9f17._googlecast._tcp.local
+[2656:2652:0624/193641.502:VERBOSE1:service_discovery_device_lister.cc(91)] OnResolveComplete: service_type: _googlecast._tcp.local, service_name: 2K-Smart-TV-9f70efd69c4b828a0cc17ae025ba9f17._googlecast._tcp.local, status: 0
+[15380:15820:0624/193846.376:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/194141.579:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/194421.221:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/194656.429:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/194927.839:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:15696:0624/195025.515:VERBOSE1:cast_message_handler.cc(362)] OnMessage: channel_id: 2, message: {source_id: receiver-0, destination_id: *, namespace: urn:x-cast:com.google.cast.receiver, payload_utf8: {"requestId":0,"status":{"applications":[{"appId":"2C6A6E3D","appType":"ANDROID_TV","displayName":"YouTube","iconUrl":"","isIdleScreen":false,"launchedFromCloud":false,"namespaces":[{"name":"urn:x-cast:com.google.cast.media"},{"name":"urn:x-cast:com.google.cast.system"},{"name":"urn:x-cast:com.google.cast.cac"},{"name":"urn:x-cast:com.google.cast.customdata"},{"name":"urn:x-cast:com.google.youtube.mdx"}],"senderConnected":true,"sessionId":"530bfdd9-6d9a-4444-8387-c5d85b3f3a23","statusText":"Youtube","transportId":"530bfdd9-6d9a-4444-8387-c5d85b3f3a23","universalAppId":"233637DE"}],"isActiveInput":false,"isStandBy":true,"userEq":{},"volume":{"controlType":"master","level":0.0,"muted":false,"stepInterval":0.009999999776482582}},"type":"RECEIVER_STATUS"}}
+[2656:15696:0624/195026.272:VERBOSE1:cast_message_handler.cc(362)] OnMessage: channel_id: 2, message: {source_id: receiver-0, destination_id: *, namespace: urn:x-cast:com.google.cast.receiver, payload_utf8: {"requestId":0,"status":{"isActiveInput":false,"isStandBy":true,"userEq":{},"volume":{"controlType":"master","level":0.0,"muted":false,"stepInterval":0.009999999776482582}},"type":"RECEIVER_STATUS"}}
+[2656:15696:0624/195026.392:VERBOSE1:cast_message_handler.cc(362)] OnMessage: channel_id: 2, message: {source_id: receiver-0, destination_id: *, namespace: urn:x-cast:com.google.cast.receiver, payload_utf8: {"requestId":0,"status":{"isActiveInput":false,"isStandBy":true,"userEq":{},"volume":{"controlType":"master","level":0.0,"muted":false,"stepInterval":0.009999999776482582}},"type":"RECEIVER_STATUS"}}
+[2656:2652:0624/195028.487:VERBOSE1:service_discovery_device_lister.cc(54)] OnServiceUpdated: service_type: _googlecast._tcp.local, service_name: 2K-Smart-TV-9f70efd69c4b828a0cc17ae025ba9f17._googlecast._tcp.local, update: 1
+[2656:2652:0624/195028.487:VERBOSE1:service_discovery_device_lister.cc(75)] Adding resolver for service_name: 2K-Smart-TV-9f70efd69c4b828a0cc17ae025ba9f17._googlecast._tcp.local
+[2656:2652:0624/195028.496:VERBOSE1:service_discovery_device_lister.cc(91)] OnResolveComplete: service_type: _googlecast._tcp.local, service_name: 2K-Smart-TV-9f70efd69c4b828a0cc17ae025ba9f17._googlecast._tcp.local, status: 0
+[15380:15820:0624/195202.419:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/195444.122:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/195643.337:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.114:8060/dial/dd.xml
+[15380:15820:0624/195725.367:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/195728.541:VERBOSE1:device_event_log_impl.cc(198)] [19:57:28.541] USB: USER: usb_service_win.cc:762 USB device added: path=\\?\usb#vid_22b8&pid_2e82#zy22hsvplw#{a5dcbf10-6530-11d2-901f-00c04fb951ed} vendor=8888 "motorola", product=11906 "moto g stylus 5G - 2023", serial="ZY22HSVPLW", driver="WUDFWpdMtp", guid=7f5e93ca-ffa9-4017-b4d5-33b373686948
+[15380:15820:0624/200008.755:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/200303.296:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/200422.461:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2656:15696:0624/200502.871:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=82})
+[2656:15696:0624/200503.871:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=80})
+[2656:15696:0624/200504.862:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=78})
+[2656:15696:0624/200505.859:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=77})
+[2656:15696:0624/200506.855:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=75})
+[2656:2652:0624/200510.874:VERBOSE1:device_event_log_impl.cc(198)] [20:05:10.874] USB: USER: usb_service_win.cc:674 USB device removed: path=\\?\usb#vid_22b8&pid_2e82#zy22hsvplw#{a5dcbf10-6530-11d2-901f-00c04fb951ed} guid=7f5e93ca-ffa9-4017-b4d5-33b373686948
+[2656:15696:0624/200510.878:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=72})
+[2656:15696:0624/200511.871:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=67})
+[2656:15696:0624/200512.860:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=69})
+[2656:15696:0624/200513.876:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=71})
+[2656:15696:0624/200514.874:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=72})
+[2656:15696:0624/200516.087:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=100})
+[2656:2652:0624/200519.450:VERBOSE1:device_event_log_impl.cc(198)] [20:05:19.450] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/200519.451:VERBOSE1:device_event_log_impl.cc(198)] [20:05:19.452] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/200537.450:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/200545.752:VERBOSE1:device_event_log_impl.cc(198)] [20:05:45.752] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/200545.753:VERBOSE1:device_event_log_impl.cc(198)] [20:05:45.753] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/200643.679:VERBOSE1:device_event_log_impl.cc(198)] [20:06:43.678] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/200643.679:VERBOSE1:device_event_log_impl.cc(198)] [20:06:43.678] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/200727.463:VERBOSE1:device_event_log_impl.cc(198)] [20:07:27.463] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/200727.463:VERBOSE1:device_event_log_impl.cc(198)] [20:07:27.464] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/200738.396:VERBOSE1:device_event_log_impl.cc(198)] [20:07:38.396] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/200738.396:VERBOSE1:device_event_log_impl.cc(198)] [20:07:38.396] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/200817.231:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/201042.825:VERBOSE1:device_event_log_impl.cc(198)] [20:10:42.825] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/201042.825:VERBOSE1:device_event_log_impl.cc(198)] [20:10:42.825] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/201048.358:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/201112.117:VERBOSE1:device_event_log_impl.cc(198)] [20:11:12.117] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/201112.117:VERBOSE1:device_event_log_impl.cc(198)] [20:11:12.117] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/201158.008:VERBOSE1:device_event_log_impl.cc(198)] [20:11:58.007] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/201158.008:VERBOSE1:device_event_log_impl.cc(198)] [20:11:58.007] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/201327.005:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/201358.304:VERBOSE1:device_event_log_impl.cc(198)] [20:13:58.302] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/201358.304:VERBOSE1:device_event_log_impl.cc(198)] [20:13:58.303] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/201504.678:VERBOSE1:device_event_log_impl.cc(198)] [20:15:04.677] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/201504.678:VERBOSE1:device_event_log_impl.cc(198)] [20:15:04.678] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/201550.501:VERBOSE1:device_event_log_impl.cc(198)] [20:15:50.501] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/201550.501:VERBOSE1:device_event_log_impl.cc(198)] [20:15:50.501] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/201605.366:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/201706.941:VERBOSE1:device_event_log_impl.cc(198)] [20:17:06.940] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/201706.941:VERBOSE1:device_event_log_impl.cc(198)] [20:17:06.940] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/201741.426:VERBOSE1:device_event_log_impl.cc(198)] [20:17:41.427] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/201741.426:VERBOSE1:device_event_log_impl.cc(198)] [20:17:41.427] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/201853.442:VERBOSE1:device_event_log_impl.cc(198)] [20:18:53.441] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/201853.442:VERBOSE1:device_event_log_impl.cc(198)] [20:18:53.442] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/201904.944:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/201905.084:VERBOSE1:tls_handshaker.cc(105)] TlsClient: Continuing handshake
+[2656:2652:0624/202005.457:VERBOSE1:device_event_log_impl.cc(198)] [20:20:05.457] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/202005.457:VERBOSE1:device_event_log_impl.cc(198)] [20:20:05.458] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/202118.289:VERBOSE1:device_event_log_impl.cc(198)] [20:21:18.288] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/202118.289:VERBOSE1:device_event_log_impl.cc(198)] [20:21:18.289] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/202140.048:VERBOSE1:device_event_log_impl.cc(198)] [20:21:40.048] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/202140.048:VERBOSE1:device_event_log_impl.cc(198)] [20:21:40.048] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/202151.814:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/202358.071:VERBOSE1:device_event_log_impl.cc(198)] [20:23:58.070] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/202358.071:VERBOSE1:device_event_log_impl.cc(198)] [20:23:58.071] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/202439.573:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/202500.979:VERBOSE1:device_event_log_impl.cc(198)] [20:25:00.979] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/202500.979:VERBOSE1:device_event_log_impl.cc(198)] [20:25:00.979] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/202528.791:VERBOSE1:device_event_log_impl.cc(198)] [20:25:28.791] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/202528.791:VERBOSE1:device_event_log_impl.cc(198)] [20:25:28.791] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/202535.704:VERBOSE1:device_event_log_impl.cc(198)] [20:25:35.704] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/202535.704:VERBOSE1:device_event_log_impl.cc(198)] [20:25:35.704] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/202642.523:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.108:56790/dd.xml
+[2656:2652:0624/202707.284:VERBOSE1:device_event_log_impl.cc(198)] [20:27:07.283] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/202707.284:VERBOSE1:device_event_log_impl.cc(198)] [20:27:07.283] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/202715.614:VERBOSE1:device_event_log_impl.cc(198)] [20:27:15.613] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/202715.614:VERBOSE1:device_event_log_impl.cc(198)] [20:27:15.613] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/202731.112:VERBOSE1:device_event_log_impl.cc(198)] [20:27:31.112] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/202731.112:VERBOSE1:device_event_log_impl.cc(198)] [20:27:31.112] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/202735.095:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/202817.050:VERBOSE1:device_event_log_impl.cc(198)] [20:28:17.050] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/202817.050:VERBOSE1:device_event_log_impl.cc(198)] [20:28:17.050] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/202918.791:VERBOSE1:device_event_log_impl.cc(198)] [20:29:18.791] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/202918.791:VERBOSE1:device_event_log_impl.cc(198)] [20:29:18.791] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/202959.191:VERBOSE1:device_event_log_impl.cc(198)] [20:29:59.191] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/202959.191:VERBOSE1:device_event_log_impl.cc(198)] [20:29:59.191] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/203008.290:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/203016.969:VERBOSE1:device_event_log_impl.cc(198)] [20:30:16.969] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/203016.969:VERBOSE1:device_event_log_impl.cc(198)] [20:30:16.969] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/203043.876:VERBOSE1:device_event_log_impl.cc(198)] [20:30:43.876] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/203043.876:VERBOSE1:device_event_log_impl.cc(198)] [20:30:43.876] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/203105.206:VERBOSE1:device_event_log_impl.cc(198)] [20:31:05.206] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/203105.207:VERBOSE1:device_event_log_impl.cc(198)] [20:31:05.206] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/203126.273:VERBOSE1:device_event_log_impl.cc(198)] [20:31:26.273] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/203126.273:VERBOSE1:device_event_log_impl.cc(198)] [20:31:26.273] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/203150.904:VERBOSE1:device_event_log_impl.cc(198)] [20:31:50.904] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/203150.904:VERBOSE1:device_event_log_impl.cc(198)] [20:31:50.904] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/203209.333:VERBOSE1:device_event_log_impl.cc(198)] [20:32:09.334] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/203209.334:VERBOSE1:device_event_log_impl.cc(198)] [20:32:09.334] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/203240.060:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/203250.434:VERBOSE1:device_event_log_impl.cc(198)] [20:32:50.435] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/203250.434:VERBOSE1:device_event_log_impl.cc(198)] [20:32:50.435] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/203443.997:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.114:8060/dial/dd.xml
+[15380:15820:0624/203528.006:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/203809.374:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/204044.066:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/204336.085:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/204444.098:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.114:8060/dial/dd.xml
+[15380:15820:0624/204632.445:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/204924.464:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/205059.177:VERBOSE1:device_event_log_impl.cc(198)] [20:50:59.176] USB: USER: usb_service_win.cc:762 USB device added: path=\\?\usb#vid_22b8&pid_2e82#zy22hsvplw#{a5dcbf10-6530-11d2-901f-00c04fb951ed} vendor=8888 "motorola", product=11906 "moto g stylus 5G - 2023", serial="ZY22HSVPLW", driver="WUDFWpdMtp", guid=d89a6923-3bc9-4554-9b5e-ffb65cdb5baa
+[15380:15820:0624/205223.181:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/205428.244:VERBOSE1:device_event_log_impl.cc(198)] [20:54:28.244] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/205428.244:VERBOSE1:device_event_log_impl.cc(198)] [20:54:28.244] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/205511.459:VERBOSE1:device_event_log_impl.cc(198)] [20:55:11.459] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/205511.459:VERBOSE1:device_event_log_impl.cc(198)] [20:55:11.460] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/205512.893:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/205618.772:VERBOSE1:device_event_log_impl.cc(198)] [20:56:18.771] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/205618.772:VERBOSE1:device_event_log_impl.cc(198)] [20:56:18.772] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/205706.068:VERBOSE1:device_event_log_impl.cc(198)] [20:57:06.068] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/205706.068:VERBOSE1:device_event_log_impl.cc(198)] [20:57:06.069] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/205732.029:VERBOSE1:device_event_log_impl.cc(198)] [20:57:32.030] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/205732.030:VERBOSE1:device_event_log_impl.cc(198)] [20:57:32.030] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/205747.059:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/210033.752:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/210323.319:VERBOSE1:device_event_log_impl.cc(198)] [21:03:23.318] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/210323.319:VERBOSE1:device_event_log_impl.cc(198)] [21:03:23.319] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/210326.935:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/210607.022:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/210845.315:VERBOSE1:device_event_log_impl.cc(198)] [21:08:45.315] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/210845.315:VERBOSE1:device_event_log_impl.cc(198)] [21:08:45.316] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/210850.858:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/210936.665:VERBOSE1:device_event_log_impl.cc(198)] [21:09:36.665] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/210936.665:VERBOSE1:device_event_log_impl.cc(198)] [21:09:36.665] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/211136.902:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/211240.852:VERBOSE1:device_event_log_impl.cc(198)] [21:12:40.852] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/211240.852:VERBOSE1:device_event_log_impl.cc(198)] [21:12:40.852] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/211307.650:VERBOSE1:device_event_log_impl.cc(198)] [21:13:07.650] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/211307.650:VERBOSE1:device_event_log_impl.cc(198)] [21:13:07.650] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/211421.729:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/211431.743:VERBOSE1:device_event_log_impl.cc(198)] [21:14:31.742] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/211431.743:VERBOSE1:device_event_log_impl.cc(198)] [21:14:31.743] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/211433.765:VERBOSE1:device_event_log_impl.cc(198)] [21:14:33.765] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/211433.765:VERBOSE1:device_event_log_impl.cc(198)] [21:14:33.765] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/211659.612:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/211717.821:VERBOSE1:device_event_log_impl.cc(198)] [21:17:17.821] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/211717.821:VERBOSE1:device_event_log_impl.cc(198)] [21:17:17.821] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/211842.464:VERBOSE1:device_event_log_impl.cc(198)] [21:18:42.465] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/211842.464:VERBOSE1:device_event_log_impl.cc(198)] [21:18:42.465] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/211941.652:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/212013.244:VERBOSE1:device_event_log_impl.cc(198)] [21:20:13.243] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/212013.244:VERBOSE1:device_event_log_impl.cc(198)] [21:20:13.243] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/212106.870:VERBOSE1:device_event_log_impl.cc(198)] [21:21:06.869] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/212106.871:VERBOSE1:device_event_log_impl.cc(198)] [21:21:06.870] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/212217.849:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/212223.202:VERBOSE1:device_event_log_impl.cc(198)] [21:22:23.202] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/212223.202:VERBOSE1:device_event_log_impl.cc(198)] [21:22:23.202] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/212355.547:VERBOSE1:device_event_log_impl.cc(198)] [21:23:55.547] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/212355.547:VERBOSE1:device_event_log_impl.cc(198)] [21:23:55.547] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/212427.784:VERBOSE1:device_event_log_impl.cc(198)] [21:24:27.783] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/212427.784:VERBOSE1:device_event_log_impl.cc(198)] [21:24:27.783] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/212515.067:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/212601.200:VERBOSE1:device_event_log_impl.cc(198)] [21:26:01.199] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/212601.200:VERBOSE1:device_event_log_impl.cc(198)] [21:26:01.199] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/212742.958:VERBOSE1:device_event_log_impl.cc(198)] [21:27:42.957] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/212742.958:VERBOSE1:device_event_log_impl.cc(198)] [21:27:42.957] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/212755.379:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/212912.627:VERBOSE1:device_event_log_impl.cc(198)] [21:29:12.627] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/212912.627:VERBOSE1:device_event_log_impl.cc(198)] [21:29:12.627] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/212939.531:VERBOSE1:device_event_log_impl.cc(198)] [21:29:39.530] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/212939.531:VERBOSE1:device_event_log_impl.cc(198)] [21:29:39.531] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/213008.511:VERBOSE1:device_event_log_impl.cc(198)] [21:30:08.510] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/213008.511:VERBOSE1:device_event_log_impl.cc(198)] [21:30:08.510] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/213055.326:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/213141.847:VERBOSE1:device_event_log_impl.cc(198)] [21:31:41.846] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/213141.847:VERBOSE1:device_event_log_impl.cc(198)] [21:31:41.846] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/213353.638:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/213446.164:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.114:8060/dial/dd.xml
+[2656:2652:0624/213549.922:VERBOSE1:device_event_log_impl.cc(198)] [21:35:49.921] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/213549.922:VERBOSE1:device_event_log_impl.cc(198)] [21:35:49.922] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/213611.411:VERBOSE1:device_event_log_impl.cc(198)] [21:36:11.411] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/213611.411:VERBOSE1:device_event_log_impl.cc(198)] [21:36:11.411] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/213634.094:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/213721.311:VERBOSE1:device_event_log_impl.cc(198)] [21:37:21.310] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/213721.311:VERBOSE1:device_event_log_impl.cc(198)] [21:37:21.310] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/213756.547:VERBOSE1:device_event_log_impl.cc(198)] [21:37:56.547] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/213756.547:VERBOSE1:device_event_log_impl.cc(198)] [21:37:56.547] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/213817.199:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15380:15820:0624/213919.893:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/213937.424:VERBOSE1:device_event_log_impl.cc(198)] [21:39:37.424] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/213937.424:VERBOSE1:device_event_log_impl.cc(198)] [21:39:37.425] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/214003.317:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2656:15696:0624/214141.759:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=76})
+[2656:15696:0624/214142.757:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=77})
+[2656:15696:0624/214143.758:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=100})
+[15380:15820:0624/214204.058:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/214213.690:VERBOSE1:device_event_log_impl.cc(198)] [21:42:13.690] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/214213.690:VERBOSE1:device_event_log_impl.cc(198)] [21:42:13.691] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/214340.287:VERBOSE1:device_event_log_impl.cc(198)] [21:43:40.287] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/214340.287:VERBOSE1:device_event_log_impl.cc(198)] [21:43:40.287] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/214355.278:VERBOSE1:device_event_log_impl.cc(198)] [21:43:55.277] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/214355.278:VERBOSE1:device_event_log_impl.cc(198)] [21:43:55.278] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/214436.492:VERBOSE1:device_event_log_impl.cc(198)] [21:44:36.492] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/214436.493:VERBOSE1:device_event_log_impl.cc(198)] [21:44:36.493] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/214442.897:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/214445.383:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.108:56790/dd.xml
+[2656:2652:0624/214553.712:VERBOSE1:device_event_log_impl.cc(198)] [21:45:53.712] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/214553.712:VERBOSE1:device_event_log_impl.cc(198)] [21:45:53.712] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/214712.564:VERBOSE1:device_event_log_impl.cc(198)] [21:47:12.563] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/214712.564:VERBOSE1:device_event_log_impl.cc(198)] [21:47:12.564] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/214739.225:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/214931.911:VERBOSE1:device_event_log_impl.cc(198)] [21:49:31.911] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/214931.911:VERBOSE1:device_event_log_impl.cc(198)] [21:49:31.912] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/214937.021:VERBOSE1:device_event_log_impl.cc(198)] [21:49:37.021] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/214937.021:VERBOSE1:device_event_log_impl.cc(198)] [21:49:37.022] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/215010.560:VERBOSE1:device_event_log_impl.cc(198)] [21:50:10.560] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/215010.560:VERBOSE1:device_event_log_impl.cc(198)] [21:50:10.560] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/215031.300:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/215054.086:VERBOSE1:device_event_log_impl.cc(198)] [21:50:54.086] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/215054.086:VERBOSE1:device_event_log_impl.cc(198)] [21:50:54.086] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/215117.861:VERBOSE1:device_event_log_impl.cc(198)] [21:51:17.861] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/215117.861:VERBOSE1:device_event_log_impl.cc(198)] [21:51:17.861] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/215202.536:VERBOSE1:device_event_log_impl.cc(198)] [21:52:02.535] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/215202.536:VERBOSE1:device_event_log_impl.cc(198)] [21:52:02.536] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/215231.444:VERBOSE1:device_event_log_impl.cc(198)] [21:52:31.444] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/215231.444:VERBOSE1:device_event_log_impl.cc(198)] [21:52:31.444] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/215329.294:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/215331.381:VERBOSE1:device_event_log_impl.cc(198)] [21:53:31.380] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/215331.383:VERBOSE1:device_event_log_impl.cc(198)] [21:53:31.383] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/215433.515:VERBOSE1:device_event_log_impl.cc(198)] [21:54:33.515] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/215433.515:VERBOSE1:device_event_log_impl.cc(198)] [21:54:33.515] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/215442.377:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.107:8008/ssdp/device-desc.xml
+[15380:15820:0624/215442.378:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.108:56790/dd.xml
+[15380:15820:0624/215443.376:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.114:8060/dial/dd.xml
+[2656:2652:0624/215532.165:VERBOSE1:device_event_log_impl.cc(198)] [21:55:32.164] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/215532.165:VERBOSE1:device_event_log_impl.cc(198)] [21:55:32.164] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/215614.645:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/215718.427:VERBOSE1:device_event_log_impl.cc(198)] [21:57:18.427] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/215718.427:VERBOSE1:device_event_log_impl.cc(198)] [21:57:18.427] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/215805.987:VERBOSE1:device_event_log_impl.cc(198)] [21:58:05.987] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/215805.987:VERBOSE1:device_event_log_impl.cc(198)] [21:58:05.987] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/215847.680:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/215920.520:VERBOSE1:device_event_log_impl.cc(198)] [21:59:20.519] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/215920.520:VERBOSE1:device_event_log_impl.cc(198)] [21:59:20.520] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/220120.618:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/220203.045:VERBOSE1:device_event_log_impl.cc(198)] [22:02:03.045] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/220203.045:VERBOSE1:device_event_log_impl.cc(198)] [22:02:03.046] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/220352.332:VERBOSE1:device_event_log_impl.cc(198)] [22:03:52.332] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/220352.332:VERBOSE1:device_event_log_impl.cc(198)] [22:03:52.332] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/220420.101:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:15696:0624/220424.696:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=70})
+[2656:15696:0624/220425.907:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=100})
+[2656:2652:0624/220620.833:VERBOSE1:device_event_log_impl.cc(198)] [22:06:20.833] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/220620.833:VERBOSE1:device_event_log_impl.cc(198)] [22:06:20.833] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/220713.960:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:15696:0624/220738.819:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=70})
+[2656:15696:0624/220740.126:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=73})
+[2656:15696:0624/220741.068:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=100})
+[15380:15820:0624/221013.652:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:15696:0624/221039.624:VERBOSE1:cast_message_handler.cc(362)] OnMessage: channel_id: 14, message: {source_id: receiver-0, destination_id: *, namespace: urn:x-cast:com.google.cast.receiver, payload_utf8: {"requestId":0,"status":{"isActiveInput":true,"isStandBy":false,"userEq":{},"volume":{"controlType":"master","level":0.07999999821186066,"muted":true,"stepInterval":0.019999999552965164}},"type":"RECEIVER_STATUS"}}
+[2656:15696:0624/221054.628:VERBOSE1:cast_socket.cc(627)] [192.168.0.108:8009, auth=SSL_VERIFIED] Close ReadyState = ReadyState::OPEN
+[2656:15696:0624/221054.634:VERBOSE1:cast_socket.cc(227)] [192.168.0.108:8009, auth=SSL_VERIFIED] Connect readyState = ReadyState::NONE
+[2656:15696:0624/221054.634:VERBOSE1:cast_socket.cc(391)] [192.168.0.108:8009, auth=SSL_VERIFIED] DoTcpConnect
+[2656:15696:0624/221104.637:VERBOSE1:cast_socket.cc(306)] [192.168.0.108:8009, auth=SSL_VERIFIED] Timeout while establishing a connection.
+[2656:15696:0624/221104.637:VERBOSE1:cast_socket.cc(665)] [192.168.0.108:8009, auth=SSL_VERIFIED] SetErrorState ChannelError::CONNECT_TIMEOUT
+[2656:15696:0624/221104.637:VERBOSE1:cast_socket.cc(587)] DoConnectCallback (error_state = ChannelError::CONNECT_TIMEOUT)
+[2656:15696:0624/221104.637:VERBOSE1:cast_socket.cc(627)] [192.168.0.108:8009, auth=SSL_VERIFIED] Close ReadyState = ReadyState::CONNECTING
+[2656:15696:0624/221104.639:VERBOSE1:cast_socket.cc(227)] [192.168.0.108:8009, auth=SSL_VERIFIED] Connect readyState = ReadyState::NONE
+[2656:15696:0624/221104.639:VERBOSE1:cast_socket.cc(391)] [192.168.0.108:8009, auth=SSL_VERIFIED] DoTcpConnect
+[2656:15696:0624/221114.641:VERBOSE1:cast_socket.cc(306)] [192.168.0.108:8009, auth=SSL_VERIFIED] Timeout while establishing a connection.
+[2656:15696:0624/221114.641:VERBOSE1:cast_socket.cc(665)] [192.168.0.108:8009, auth=SSL_VERIFIED] SetErrorState ChannelError::CONNECT_TIMEOUT
+[2656:15696:0624/221114.641:VERBOSE1:cast_socket.cc(587)] DoConnectCallback (error_state = ChannelError::CONNECT_TIMEOUT)
+[2656:15696:0624/221114.641:VERBOSE1:cast_socket.cc(627)] [192.168.0.108:8009, auth=SSL_VERIFIED] Close ReadyState = ReadyState::CONNECTING
+[2656:15696:0624/221123.487:VERBOSE1:cast_socket.cc(227)] [192.168.0.108:8009, auth=SSL_VERIFIED] Connect readyState = ReadyState::NONE
+[2656:15696:0624/221123.487:VERBOSE1:cast_socket.cc(391)] [192.168.0.108:8009, auth=SSL_VERIFIED] DoTcpConnect
+[2656:15696:0624/221126.665:VERBOSE1:cast_socket.cc(405)] [192.168.0.108:8009, auth=SSL_VERIFIED] DoTcpConnectComplete: -102
+[2656:15696:0624/221126.665:VERBOSE1:cast_socket.cc(665)] [192.168.0.108:8009, auth=SSL_VERIFIED] SetErrorState ChannelError::CONNECT_ERROR
+[2656:15696:0624/221126.665:VERBOSE1:cast_socket.cc(587)] DoConnectCallback (error_state = ChannelError::CONNECT_ERROR)
+[2656:15696:0624/221126.665:VERBOSE1:cast_socket.cc(627)] [192.168.0.108:8009, auth=SSL_VERIFIED] Close ReadyState = ReadyState::CONNECTING
+[2656:15696:0624/221138.829:VERBOSE1:cast_socket.cc(227)] [192.168.0.108:8009, auth=SSL_VERIFIED] Connect readyState = ReadyState::NONE
+[2656:15696:0624/221138.829:VERBOSE1:cast_socket.cc(391)] [192.168.0.108:8009, auth=SSL_VERIFIED] DoTcpConnect
+[2656:15696:0624/221139.334:VERBOSE1:cast_socket.cc(405)] [192.168.0.108:8009, auth=SSL_VERIFIED] DoTcpConnectComplete: 0
+[2656:15696:0624/221139.334:VERBOSE1:cast_socket.cc(422)] [192.168.0.108:8009, auth=SSL_VERIFIED] DoSslConnect
+[2656:15696:0624/221139.364:VERBOSE1:cast_socket.cc(445)] [192.168.0.108:8009, auth=SSL_VERIFIED] DoSslConnectComplete: 0
+[2656:15696:0624/221139.364:VERBOSE1:cast_socket.cc(476)] [192.168.0.108:8009, auth=SSL_VERIFIED] DoAuthChallengeSend
+[2656:15696:0624/221139.365:VERBOSE1:cast_socket.cc(481)] [192.168.0.108:8009, auth=SSL_VERIFIED] Sending challenge: {source_id: sender-0, destination_id: receiver-0, namespace: urn:x-cast:com.google.cast.tp.deviceauth, payload_binary: (22 bytes)}
+[2656:15696:0624/221139.365:VERBOSE1:cast_socket.cc(492)] [192.168.0.108:8009, auth=SSL_VERIFIED] DoAuthChallengeSendComplete: 0
+[2656:15696:0624/221139.572:VERBOSE1:cast_socket.cc(538)] [192.168.0.108:8009, auth=SSL_VERIFIED] DoAuthChallengeReplyComplete: 0
+[2656:15696:0624/221139.572:VERBOSE1:cast_auth_util.cc(97)] Auth message: {response: {signature: (256 bytes), certificate: (962 bytes)}}
+[2656:15696:0624/221139.581:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[2656:15696:0624/221139.582:VERBOSE1:cast_socket.cc(184)] 
+[2656:15696:0624/221139.582:VERBOSE1:cast_socket.cc(557)] [192.168.0.108:8009, auth=SSL_VERIFIED] Auth challenge verification succeeded
+[2656:15696:0624/221139.582:VERBOSE1:cast_socket.cc(587)] DoConnectCallback (error_state = ChannelError::NONE)
+[2656:15696:0624/221139.584:VERBOSE1:cast_message_handler.cc(462)] Creating VC for channel: 18, source: sender-885730, dest: receiver-0
+[2656:15696:0624/221139.586:VERBOSE1:cast_message_handler.cc(444)] SendCastMessageToSocket: channel_id: 18, message: {source_id: sender-885730, destination_id: receiver-0, namespace: urn:x-cast:com.google.cast.receiver, payload_utf8: {"requestId":3,"type":"GET_STATUS"}}
+[2656:15696:0624/221139.593:VERBOSE1:cast_message_handler.cc(362)] OnMessage: channel_id: 18, message: {source_id: receiver-0, destination_id: sender-885730, namespace: urn:x-cast:com.google.cast.receiver, payload_utf8: {"requestId":3,"status":{"isActiveInput":true,"isStandBy":false,"userEq":{},"volume":{"controlType":"master","level":0.07999999821186066,"muted":false,"stepInterval":0.019999999552965164}},"type":"RECEIVER_STATUS"}}
+[15380:15820:0624/221303.017:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/221446.034:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.108:56790/dd.xml
+[15380:15820:0624/221446.036:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.114:8060/dial/dd.xml
+[15380:15820:0624/221559.046:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/221627.283:VERBOSE1:device_event_log_impl.cc(198)] [22:16:27.282] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/221627.283:VERBOSE1:device_event_log_impl.cc(198)] [22:16:27.282] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/221706.917:VERBOSE1:device_event_log_impl.cc(198)] [22:17:06.917] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/221706.917:VERBOSE1:device_event_log_impl.cc(198)] [22:17:06.917] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/221845.801:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:15696:0624/221946.319:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=75})
+[2656:15696:0624/221949.306:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=74})
+[2656:15696:0624/221950.319:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=75})
+[2656:15696:0624/221951.319:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=74})
+[2656:15696:0624/221954.324:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=75})
+[2656:15696:0624/221956.330:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=77})
+[2656:15696:0624/221957.323:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=76})
+[2656:15696:0624/221958.318:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=77})
+[2656:15696:0624/222000.321:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=76})
+[2656:15696:0624/222001.326:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=77})
+[2656:15696:0624/222002.317:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=78})
+[2656:15696:0624/222003.320:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=77})
+[2656:15696:0624/222005.330:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=76})
+[2656:15696:0624/222008.324:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=77})
+[2656:15696:0624/222009.331:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=76})
+[2656:15696:0624/222011.334:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=74})
+[2656:15696:0624/222012.334:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=73})
+[2656:15696:0624/222013.334:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=72})
+[2656:15696:0624/222014.349:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=73})
+[2656:15696:0624/222017.345:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=74})
+[2656:15696:0624/222018.337:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=72})
+[2656:15696:0624/222019.333:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=73})
+[2656:15696:0624/222020.348:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=71})
+[2656:15696:0624/222021.347:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=73})
+[2656:15696:0624/222022.339:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=72})
+[2656:15696:0624/222023.347:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=74})
+[2656:15696:0624/222024.339:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=73})
+[2656:15696:0624/222025.357:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=72})
+[2656:15696:0624/222026.344:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=71})
+[2656:15696:0624/222028.339:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=72})
+[2656:15696:0624/222030.348:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=74})
+[2656:15696:0624/222032.346:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=75})
+[2656:15696:0624/222033.356:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=74})
+[2656:15696:0624/222034.354:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=75})
+[2656:15696:0624/222035.356:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=77})
+[2656:15696:0624/222036.434:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=79})
+[2656:15696:0624/222038.354:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=78})
+[2656:15696:0624/222041.362:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=79})
+[2656:15696:0624/222043.366:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=81})
+[2656:15696:0624/222045.361:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=80})
+[2656:15696:0624/222046.357:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=79})
+[2656:15696:0624/222047.364:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=78})
+[2656:15696:0624/222048.357:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=79})
+[2656:15696:0624/222049.365:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=100})
+[15380:15820:0624/222139.875:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:15696:0624/222206.415:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=78})
+[2656:15696:0624/222207.418:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=75})
+[2656:15696:0624/222208.415:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=100})
+[15380:15820:0624/222425.435:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/222714.923:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:15696:0624/222723.673:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=76})
+[2656:15696:0624/222728.676:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=77})
+[2656:15696:0624/222730.216:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=100})
+[2656:15696:0624/222740.690:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=61})
+[2656:15696:0624/222741.695:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=58})
+[2656:15696:0624/222742.680:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=55})
+[2656:15696:0624/222745.457:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=57})
+[2656:15696:0624/222746.689:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=100})
+[2656:15696:0624/222915.767:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=74})
+[2656:15696:0624/222916.766:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=71})
+[2656:15696:0624/222918.755:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=70})
+[2656:15696:0624/222921.009:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=100})
+[2656:2652:0624/222944.844:VERBOSE1:device_event_log_impl.cc(198)] [22:29:44.817] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/222944.846:VERBOSE1:device_event_log_impl.cc(198)] [22:29:44.845] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/222950.589:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/223104.661:VERBOSE1:device_event_log_impl.cc(198)] [22:31:04.661] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/223104.661:VERBOSE1:device_event_log_impl.cc(198)] [22:31:04.661] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:15696:0624/223120.854:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=64})
+[2656:15696:0624/223121.852:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=62})
+[2656:15696:0624/223122.852:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=64})
+[2656:15696:0624/223123.851:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=70})
+[2656:15696:0624/223124.861:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=73})
+[2656:15696:0624/223125.849:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=72})
+[2656:15696:0624/223129.854:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=74})
+[2656:15696:0624/223130.855:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=100})
+[2656:2652:0624/223205.837:VERBOSE1:device_event_log_impl.cc(198)] [22:32:05.836] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/223205.838:VERBOSE1:device_event_log_impl.cc(198)] [22:32:05.837] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/223249.019:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/223433.590:VERBOSE1:device_event_log_impl.cc(198)] [22:34:33.590] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/223433.591:VERBOSE1:device_event_log_impl.cc(198)] [22:34:33.590] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/223436.594:VERBOSE1:profile_manager.cc(1325)] AddKeepAlive(Default, kExtensionUpdater). keep_alives=[kWaitingForFirstBrowserWindow (1), kAppWindow (1), kExtensionUpdater (1)]
+[2656:2652:0624/223436.599:VERBOSE1:profile_manager.cc(1377)] RemoveKeepAlive(Default, kExtensionUpdater). keep_alives=[kWaitingForFirstBrowserWindow (1), kAppWindow (1)]
+[15380:15820:0624/223444.244:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.108:56790/dd.xml
+[15380:15820:0624/223444.245:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.107:8008/ssdp/device-desc.xml
+[15380:15820:0624/223444.246:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.114:8060/dial/dd.xml
+[15380:15820:0624/223543.585:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/223839.285:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/224121.740:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/224135.846:VERBOSE1:device_event_log_impl.cc(198)] [22:41:35.845] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/224135.846:VERBOSE1:device_event_log_impl.cc(198)] [22:41:35.845] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/224242.563:VERBOSE1:device_event_log_impl.cc(198)] [22:42:42.562] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/224242.563:VERBOSE1:device_event_log_impl.cc(198)] [22:42:42.562] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/224411.319:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/224438.170:VERBOSE1:device_event_log_impl.cc(198)] [22:44:38.168] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/224438.170:VERBOSE1:device_event_log_impl.cc(198)] [22:44:38.169] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/224542.991:VERBOSE1:device_event_log_impl.cc(198)] [22:45:42.991] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/224542.991:VERBOSE1:device_event_log_impl.cc(198)] [22:45:42.991] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/224554.267:VERBOSE1:device_event_log_impl.cc(198)] [22:45:54.266] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/224554.268:VERBOSE1:device_event_log_impl.cc(198)] [22:45:54.266] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/224557.568:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15380:15820:0624/224642.413:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.107:8008/ssdp/device-desc.xml
+[15380:15820:0624/224642.415:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.108:56790/dd.xml
+[15380:15820:0624/224643.085:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.114:8060/dial/dd.xml
+[2656:2652:0624/224649.222:VERBOSE1:device_event_log_impl.cc(198)] [22:46:49.221] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/224649.223:VERBOSE1:device_event_log_impl.cc(198)] [22:46:49.222] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/224710.815:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/224746.341:VERBOSE1:device_event_log_impl.cc(198)] [22:47:46.340] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/224746.341:VERBOSE1:device_event_log_impl.cc(198)] [22:47:46.341] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/224858.566:VERBOSE1:device_event_log_impl.cc(198)] [22:48:58.565] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/224858.566:VERBOSE1:device_event_log_impl.cc(198)] [22:48:58.565] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/224914.060:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2656:2652:0624/224920.512:VERBOSE1:device_event_log_impl.cc(198)] [22:49:20.513] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/224920.512:VERBOSE1:device_event_log_impl.cc(198)] [22:49:20.513] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/224938.666:VERBOSE1:device_event_log_impl.cc(198)] [22:49:38.666] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/224938.666:VERBOSE1:device_event_log_impl.cc(198)] [22:49:38.666] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/224941.451:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/225018.955:VERBOSE1:device_event_log_impl.cc(198)] [22:50:18.955] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/225018.955:VERBOSE1:device_event_log_impl.cc(198)] [22:50:18.955] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/225120.312:VERBOSE1:device_event_log_impl.cc(198)] [22:51:20.312] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/225120.312:VERBOSE1:device_event_log_impl.cc(198)] [22:51:20.312] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/225216.776:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/225516.132:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/225753.501:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/230023.158:VERBOSE1:device_event_log_impl.cc(198)] [23:00:23.156] USB: USER: usb_service_win.cc:674 USB device removed: path=\\?\usb#vid_22b8&pid_2e82#zy22hsvplw#{a5dcbf10-6530-11d2-901f-00c04fb951ed} guid=d89a6923-3bc9-4554-9b5e-ffb65cdb5baa
+[15380:15820:0624/230038.855:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/230324.214:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/230609.575:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/230847.359:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/231134.723:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/231416.416:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/231647.896:VERBOSE1:device_event_log_impl.cc(198)] [23:16:47.895] USB: USER: usb_service_win.cc:762 USB device added: path=\\?\usb#vid_22b8&pid_2e82#zy22hsvplw#{a5dcbf10-6530-11d2-901f-00c04fb951ed} vendor=8888 "motorola", product=11906 "moto g stylus 5G - 2023", serial="ZY22HSVPLW", driver="WUDFWpdMtp", guid=d2bfff4a-4bbb-4316-bb59-ecc0ff3aff1a
+[15380:15820:0624/231710.567:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/232003.264:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/232237.621:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/232520.655:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/232817.019:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/232900.253:VERBOSE1:device_event_log_impl.cc(198)] [23:29:00.252] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/232900.253:VERBOSE1:device_event_log_impl.cc(198)] [23:29:00.252] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/232930.119:VERBOSE1:service_discovery_device_lister.cc(54)] OnServiceUpdated: service_type: _googlecast._tcp.local, service_name: 2K-Smart-TV-9f70efd69c4b828a0cc17ae025ba9f17._googlecast._tcp.local, update: 1
+[2656:2652:0624/232930.119:VERBOSE1:service_discovery_device_lister.cc(75)] Adding resolver for service_name: 2K-Smart-TV-9f70efd69c4b828a0cc17ae025ba9f17._googlecast._tcp.local
+[2656:2652:0624/232930.133:VERBOSE1:service_discovery_device_lister.cc(91)] OnResolveComplete: service_type: _googlecast._tcp.local, service_name: 2K-Smart-TV-9f70efd69c4b828a0cc17ae025ba9f17._googlecast._tcp.local, status: 0
+[15380:15820:0624/233049.273:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/233120.778:VERBOSE1:device_event_log_impl.cc(198)] [23:31:20.777] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/233120.778:VERBOSE1:device_event_log_impl.cc(198)] [23:31:20.777] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/233230.196:VERBOSE1:device_event_log_impl.cc(198)] [23:32:30.195] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/233230.196:VERBOSE1:device_event_log_impl.cc(198)] [23:32:30.195] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/233255.560:VERBOSE1:device_event_log_impl.cc(198)] [23:32:55.559] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/233255.560:VERBOSE1:device_event_log_impl.cc(198)] [23:32:55.560] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/233332.741:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/233341.239:VERBOSE1:device_event_log_impl.cc(198)] [23:33:41.238] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/233341.239:VERBOSE1:device_event_log_impl.cc(198)] [23:33:41.238] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/233432.328:VERBOSE1:device_event_log_impl.cc(198)] [23:34:32.325] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/233432.328:VERBOSE1:device_event_log_impl.cc(198)] [23:34:32.328] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/233444.317:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.114:8060/dial/dd.xml
+[2656:2652:0624/233449.766:VERBOSE1:device_event_log_impl.cc(198)] [23:34:49.766] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/233449.766:VERBOSE1:device_event_log_impl.cc(198)] [23:34:49.766] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/233503.450:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2656:15696:0624/233513.564:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=79})
+[2656:15696:0624/233514.566:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=81})
+[2656:15696:0624/233516.554:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=80})
+[2656:15696:0624/233517.617:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=100})
+[2656:2652:0624/233539.827:VERBOSE1:device_event_log_impl.cc(198)] [23:35:39.828] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/233539.827:VERBOSE1:device_event_log_impl.cc(198)] [23:35:39.828] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/233550.302:VERBOSE1:device_event_log_impl.cc(198)] [23:35:50.302] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/233550.302:VERBOSE1:device_event_log_impl.cc(198)] [23:35:50.302] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/233616.974:VERBOSE1:device_event_log_impl.cc(198)] [23:36:16.973] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/233616.974:VERBOSE1:device_event_log_impl.cc(198)] [23:36:16.973] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/233624.464:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/233857.543:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/234133.234:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/234231.324:VERBOSE1:device_event_log_impl.cc(198)] [23:42:31.324] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/234231.324:VERBOSE1:device_event_log_impl.cc(198)] [23:42:31.325] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:15696:0624/234242.926:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=73})
+[2656:15696:0624/234243.926:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=74})
+[2656:15696:0624/234245.930:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=000018C4001B6D40}, {new_limit=100})
+[2656:2652:0624/234255.217:VERBOSE1:device_event_log_impl.cc(198)] [23:42:55.217] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/234255.217:VERBOSE1:device_event_log_impl.cc(198)] [23:42:55.217] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/234337.564:VERBOSE1:device_event_log_impl.cc(198)] [23:43:37.564] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/234337.564:VERBOSE1:device_event_log_impl.cc(198)] [23:43:37.564] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/234403.809:VERBOSE1:device_event_log_impl.cc(198)] [23:44:03.809] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/234403.809:VERBOSE1:device_event_log_impl.cc(198)] [23:44:03.809] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/234411.803:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/234502.691:VERBOSE1:device_event_log_impl.cc(198)] [23:45:02.690] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/234502.691:VERBOSE1:device_event_log_impl.cc(198)] [23:45:02.691] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/234525.590:VERBOSE1:device_event_log_impl.cc(198)] [23:45:25.590] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/234525.590:VERBOSE1:device_event_log_impl.cc(198)] [23:45:25.590] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/234536.907:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15380:15820:0624/234641.576:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.108:56790/dd.xml
+[15380:15820:0624/234642.566:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.114:8060/dial/dd.xml
+[15380:15820:0624/234642.567:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.107:8008/ssdp/device-desc.xml
+[2656:2652:0624/234655.328:VERBOSE1:device_event_log_impl.cc(198)] [23:46:55.310] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/234655.329:VERBOSE1:device_event_log_impl.cc(198)] [23:46:55.328] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/234705.205:VERBOSE1:device_event_log_impl.cc(198)] [23:47:05.204] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/234705.205:VERBOSE1:device_event_log_impl.cc(198)] [23:47:05.204] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[15380:15820:0624/234706.962:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0624/234834.055:VERBOSE1:device_event_log_impl.cc(198)] [23:48:34.054] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/234834.055:VERBOSE1:device_event_log_impl.cc(198)] [23:48:34.054] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/234839.885:VERBOSE1:device_event_log_impl.cc(198)] [23:48:39.884] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0624/234839.885:VERBOSE1:device_event_log_impl.cc(198)] [23:48:39.884] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0624/234851.201:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15380:15820:0624/234945.451:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/235216.133:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/235452.151:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0624/235728.508:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0625/000025.537:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0625/000310.901:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0625/000444.250:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: http://192.168.0.114:8060/dial/dd.xml
+[15380:15820:0625/000603.600:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[15380:15820:0625/000847.955:VERBOSE1:network_delegate.cc(36)] NetworkDelegate::NotifyBeforeURLRequest: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=dummytoken
+[2656:2652:0625/001125.603:VERBOSE1:device_event_log_impl.cc(198)] [00:11:25.582] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0625/001125.604:VERBOSE1:device_event_log_impl.cc(198)] [00:11:25.604] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[2656:2652:0625/001134.294:VERBOSE1:device_event_log_impl.cc(198)] [00:11:34.293] Display: EVENT: screen_win.cc:893 Displays updated, count: 1
+[2656:2652:0625/001134.294:VERBOSE1:device_event_log_impl.cc(198)] [00:11:34.294] Display: EVENT: screen_win.cc:895 Display[1098245827] bounds=[0,0 1536x864], workarea=[0,0 1536x816], scale=1.25, rotation=0, panel_rotation=0 external detected
+[16996:13468:0625/001202.329:VERBOSE1:frame_impl.cc(620)] frame 6-BA5843567399D0E9E817E17C2902A465 disconnected (reason=BROWSER_FRAME_DISCONNECT, current_state=CONNECTION_ACKED)
+[16996:13468:0625/001202.336:VERBOSE1:frame_impl.cc(633)] frame 6-BA5843567399D0E9E817E17C2902A465 connection retry scheduled

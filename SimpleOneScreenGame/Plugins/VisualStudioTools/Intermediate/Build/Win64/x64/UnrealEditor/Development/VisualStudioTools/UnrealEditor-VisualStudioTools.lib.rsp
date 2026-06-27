@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-VisualStudioTools.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/pitif/OneDrive/Documents/GitHub/Tech-Academy-C-and-Unreal-Engine-Projects/SimpleOneScreenGame/Intermediate/Build/Win64/x64/SimpleOneScreenGameEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_4.h.obj"
+"C:/Users/pitif/OneDrive/Documents/GitHub/Tech-Academy-C-and-Unreal-Engine-Projects/SimpleOneScreenGame/Plugins/VisualStudioTools/Intermediate/Build/Win64/x64/UnrealEditor/Development/VisualStudioTools/Module.VisualStudioTools.cpp.obj"
+"C:/Users/pitif/OneDrive/Documents/GitHub/Tech-Academy-C-and-Unreal-Engine-Projects/SimpleOneScreenGame/Plugins/VisualStudioTools/Intermediate/Build/Win64/x64/UnrealEditor/Development/VisualStudioTools/Default.rc2.res"
+/OUT:"C:/Users/pitif/OneDrive/Documents/GitHub/Tech-Academy-C-and-Unreal-Engine-Projects/SimpleOneScreenGame/Plugins/VisualStudioTools/Intermediate/Build/Win64/x64/UnrealEditor/Development/VisualStudioTools/UnrealEditor-VisualStudioTools.lib"

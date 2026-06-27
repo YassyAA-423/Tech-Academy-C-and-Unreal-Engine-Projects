@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\pitif\\documents\\simpleonescreengame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\simpleonescreengame\\module.simpleonescreengame.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\pitif\\documents\\simpleonescreengame\\intermediate\\build\\win64\\x64\\simpleonescreengameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_4.h.pch",
+        "Includes": [
+            "c:\\users\\pitif\\documents\\simpleonescreengame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\simpleonescreengame\\definitions.simpleonescreengame.h",
+            "c:\\users\\pitif\\documents\\simpleonescreengame\\intermediate\\build\\win64\\unrealeditor\\inc\\simpleonescreengame\\uht\\pickup.gen.cpp",
+            "c:\\users\\pitif\\documents\\simpleonescreengame\\source\\simpleonescreengame\\public\\pickup.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\plugins\\2d\\paper2d\\source\\paper2d\\classes\\paperspritecomponent.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\plugins\\2d\\paper2d\\intermediate\\build\\win64\\unrealeditor\\inc\\paper2d\\uht\\paperspritecomponent.generated.h",
+            "c:\\users\\pitif\\documents\\simpleonescreengame\\intermediate\\build\\win64\\unrealeditor\\inc\\simpleonescreengame\\uht\\pickup.generated.h",
+            "c:\\users\\pitif\\documents\\simpleonescreengame\\intermediate\\build\\win64\\unrealeditor\\inc\\simpleonescreengame\\uht\\simpleonescreengame.init.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
